@@ -1,0 +1,78 @@
+.container {
+  max-width: 1200px;
+  margin: auto;
+  padding: 20px 30px 0;
+
+  .links {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    margin-left: 80px;
+    font-size: 14px;
+    margin-bottom: 20px;
+
+    a,
+    p {
+      text-decoration: none;
+      padding: 3px;
+    }
+    a:hover {
+      opacity: 0.6;
+    }
+  }
+
+  .main {
+    background: white;
+    border-radius: 10px;
+    display: flex;
+    .images {
+      padding: 20px;
+      display: flex;
+      .listImages {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+        .arrow {
+          width: 26px;
+          cursor: pointer;
+          padding: 3px;
+        }
+
+        .contImage {
+          margin: 10px 0;
+          cursor: pointer;
+          text-align: center;
+          border: 1px solid white;
+
+          img {
+            height: 80px;
+            padding: 10px;
+          }
+        }
+        .contImage:hover {
+          border: 1px solid #794141;
+          border-radius: 8px;
+        }
+      }
+
+      .image {
+        text-align: center;
+        align-content: center;
+        width: 400px;
+        img {
+          height: 400px;
+        }
+      }
+    }
+    .cards {
+      div {
+        width: 16px;
+        height: 16px;
+        border-radius: 50px;
+        border: 0.5px solid #000;
+        margin: 0 20px;
+      }
+    }
+  }
+}

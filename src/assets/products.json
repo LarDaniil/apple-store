@@ -1,0 +1,1592 @@
+{
+  "smartphones": [
+    {
+      "id": 1,
+      "image": [
+        "https://static.re-store.ru/upload/resize_cache/iblock/689/100500_800_140cd750bba9870f18aada2478b24840a/h5o8vqm5blz7396z0tfjmrpft9w4l71h.jpg",
+        "https://static.re-store.ru/upload/resize_cache/iblock/fdd/100500_800_140cd750bba9870f18aada2478b24840a/hx390ob1ynbj94wuwscgta41aszqu2qr.jpg",
+        "https://static.re-store.ru/upload/resize_cache/iblock/c82/100500_800_140cd750bba9870f18aada2478b24840a/3ui2172nqcxifkwbtti01a7xxj9pluvb.jpg",
+        "https://static.re-store.ru/upload/resize_cache/iblock/9dd/100500_800_140cd750bba9870f18aada2478b24840a/jj6m1v27bkbn7pubbi0ocikiiqh5gtch.jpg"
+      ],
+      "title": "Apple iPhone 11, 64 ГБ, белый (новая комплектация)",
+      "price": 42990,
+      "width": 180,
+      "top": 0,
+      "articleNumber": "1011164WHT"
+    },
+    {
+      "id": 2,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/2ae/100500_800_140cd750bba9870f18aada2478b24840a/37gex3o82wypvpmq2dnivcv33uu40692.jpg",
+      "title": "Apple iPhone 11, 64 ГБ, черный (новая комплектация)",
+      "price": 42990,
+      "width": 180,
+      "top": 0
+    },
+    {
+      "id": 3,
+      "image": "https://images.biggeek.ru/1/435/aa3f/12430-862photo_2020-10-21%2015.13.17.jpeg",
+      "title": "Apple iPhone 12, 64 ГБ, зеленый",
+      "price": 52990,
+      "width": 276,
+      "top": -10
+    },
+    {
+      "id": 4,
+      "image": "https://images.biggeek.ru/1/435/eece/12428-811photo_2020-10-21%2015.13.04.jpeg",
+      "title": "Apple iPhone 12, 64 ГБ, белый",
+      "price": 52990,
+      "width": 274,
+      "m_btm": 36,
+      "top": -10
+    },
+    {
+      "id": 5,
+      "image": "https://images.biggeek.ru/1/435/faff/12429-255photo_2020-10-21%2015.13.21.jpeg",
+      "title": "Apple iPhone 12, 64 ГБ, синий",
+      "price": 52990,
+      "width": 274,
+      "m_btm": 36,
+      "top": -10
+    },
+    {
+      "id": 6,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/8e8/100500_800_140cd750bba9870f18aada2478b24840a/388v1n1o8ci3zztuqkyc4gw22f9eccfq.jpg",
+      "title": "Apple iPhone 13, 128 ГБ, зеленый",
+      "price": 62990,
+      "width": 190,
+      "m_btm": 38,
+      "top": 0
+    },
+    {
+      "id": 7,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/480/100500_800_140cd750bba9870f18aada2478b24840a/2sz9twxpoyj6wvxoqi2jzoy0why7wttr.jpg",
+      "title": "Apple iPhone 13, 128 ГБ, «тёмная ночь»",
+      "price": 62990,
+      "width": 184,
+      "top": 0
+    },
+    {
+      "id": 8,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/c78/100500_800_140cd750bba9870f18aada2478b24840a/chleqa1fqk01c1hifrv6xthp7lu2jm7x.jpg",
+      "title": "Apple iPhone 13, 128 ГБ, «сияющая звезда»",
+      "price": 62990,
+      "width": 184,
+      "top": 0
+    },
+    {
+      "id": 9,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/6f2/100500_800_140cd750bba9870f18aada2478b24840a/u39tro0a11kni9h8iihp7szb3uuxg1bg.jpg",
+      "title": "Apple iPhone 13, 128 ГБ, синий",
+      "price": 62990,
+      "width": 190,
+      "m_btm": 42,
+      "top": 0
+    },
+    {
+      "id": 10,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/389/100500_800_140cd750bba9870f18aada2478b24840a/0yyawpz9k0pcjh21p8ck30sxxewzyl31.jpeg",
+      "title": "Apple iPhone 14 SIM 128 ГБ, голубой",
+      "price": 74990,
+      "width": 200,
+      "m_btm": 36,
+      "top": 0
+    },
+    {
+      "id": 11,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/f53/100500_800_140cd750bba9870f18aada2478b24840a/w8xas3qzcppg9cnupp88oa0o0pjysqe2.jpeg",
+      "title": "Apple iPhone 14 dual-SIM 128 ГБ, фиолетовый",
+      "price": 74990,
+      "width": 190,
+      "top": 0
+    },
+    {
+      "id": 12,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/bee/100500_800_140cd750bba9870f18aada2478b24840a/a6l9q98c5ggjkc5pd9rbrdc80iycq6oi.jpeg",
+      "title": "Apple iPhone 14 dual-SIM 128 ГБ, «тёмная ночь»",
+      "price": 74990,
+      "width": 190,
+      "top": 0
+    },
+    {
+      "id": 13,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/4c4/100500_800_140cd750bba9870f18aada2478b24840a/q1njeoh12b1pf5lk05ul40ty8ajxd77y.jpeg",
+      "title": "Apple iPhone 14 SIM 128 ГБ, «сияющая звезда»",
+      "price": 74990,
+      "width": 190,
+      "top": 0
+    },
+    {
+      "id": 14,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/fcd/100500_800_140cd750bba9870f18aada2478b24840a/rsnooxcrsme6a3glads0voxqd0kiac2z.jpeg",
+      "title": "Apple iPhone 14 dual-SIM 128 ГБ, желтый",
+      "price": 74990,
+      "width": 190,
+      "top": 0
+    },
+    {
+      "id": 15,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/f91/100500_800_140cd750bba9870f18aada2478b24840a/7nswju22l2tbyl2orts7qqv4tm2pe73t.jpeg",
+      "title": "Apple iPhone 14 dual-SIM 128 ГБ, «сияющая звезда»",
+      "price": 74990,
+      "width": 190,
+      "top": 0
+    },
+    {
+      "id": 16,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/311/100500_800_140cd750bba9870f18aada2478b24840a/oxtw4q0p2b8eq85nx1urq2r4dtgab47k.jpeg",
+      "title": "Apple iPhone 14 SIM 128 ГБ, фиолетовый",
+      "price": 74990,
+      "width": 190,
+      "top": 0
+    },
+    {
+      "id": 17,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/451/100500_800_140cd750bba9870f18aada2478b24840a/5mzfpwt3yonr6w32ej0sls951fo4id6c.jpeg",
+      "title": "Apple iPhone 14 SIM 128 ГБ, «тёмная ночь»",
+      "price": 74990,
+      "width": 190,
+      "top": 0
+    },
+    {
+      "id": 18,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/8b7/100500_800_140cd750bba9870f18aada2478b24840a/10a9f8jxm2rrynzyhk1u1m8lqhnyq0dx.jpg",
+      "title": "Apple iPhone 14 SIM 128 ГБ, желтый",
+      "price": 74990,
+      "width": 200,
+      "m_btm": 36,
+      "top": 0
+    },
+    {
+      "id": 19,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/1b4/100500_800_140cd750bba9870f18aada2478b24840a/t0eygsf1xeatqrxiaof9sglrhbwxgcel.jpg",
+      "title": "Apple iPhone 15 SIM 128 ГБ, розовый",
+      "price": 85990,
+      "width": 210,
+      "m_btm": 50,
+      "top": 0
+    },
+
+    {
+      "id": 20,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/e0b/100500_800_140cd750bba9870f18aada2478b24840a/234d20ck9d4yqufayjcofoemer97w4ql.jpg",
+      "title": "Apple iPhone 15 SIM 128 ГБ, голубой",
+      "price": 85990,
+      "width": 210,
+      "m_btm": 50,
+      "top": 0
+    },
+    {
+      "id": 21,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/473/100500_800_140cd750bba9870f18aada2478b24840a/d4wklt8u4fm1sxo2z7guk7l9gtxa9m9f.jpg",
+      "title": "Apple iPhone 15 dual-SIM 128 ГБ, розовый",
+      "price": 85990,
+      "width": 210,
+      "top": 0
+    },
+    {
+      "id": 22,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/eee/100500_800_140cd750bba9870f18aada2478b24840a/8253idsnfifuz93appg2yhua8wpepb5g.jpg",
+      "title": "Apple iPhone 15 SIM 128 ГБ, зеленый",
+      "price": 85990,
+      "width": 210,
+      "m_btm": 50,
+      "top": 0
+    },
+    {
+      "id": 23,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/59b/100500_800_140cd750bba9870f18aada2478b24840a/9vov3sfs7a41ohvabx2812l0hn5q804o.jpg",
+      "title": "Apple iPhone 15 dual-SIM 128 ГБ, зеленый",
+      "price": 85990,
+      "width": 210,
+      "top": 0
+    },
+    {
+      "id": 24,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/5fe/100500_800_140cd750bba9870f18aada2478b24840a/jh995ltjrz8pc1exa2xvk0sry8zw2kyc.jpg",
+      "title": "Apple iPhone 15 dual-SIM 128 ГБ, голубой",
+      "price": 85990,
+      "width": 210,
+      "top": 0
+    }
+  ],
+  "tablets": [
+    {
+      "id": 25,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/2ae/100500_800_140cd750bba9870f18aada2478b24840a/fl8h2bopimcmb2s4929e9rhs9054o5ui.jpg",
+      "title": "Apple iPad 10,2\" (2021) Wi-Fi 64 ГБ, «серый космос»",
+      "price": 33990,
+      "width": 210,
+      "top": 0
+    },
+    {
+      "id": 26,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/ac7/100500_800_140cd750bba9870f18aada2478b24840a/ya81apoznlcfiqyfycaaque9abk0fzvr.jpg",
+      "title": "Apple iPad 10,2\" (2021) Wi-Fi 64 ГБ, серебристый",
+      "price": 33990,
+      "width": 210,
+      "top": 0
+    },
+    {
+      "id": 27,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/81c/100500_800_140cd750bba9870f18aada2478b24840a/9cl5001fg6p863m8b40i32avkp6f6gp6.jpg",
+      "title": "Apple iPad 10,9\" (2022) Wi-Fi 64 ГБ, розовый",
+      "price": 45990,
+      "width": 215,
+      "top": 0
+    },
+    {
+      "id": 28,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/685/100500_800_140cd750bba9870f18aada2478b24840a/11k8r1osx5ucmiiyhaosm1qkzncumlle.jpg",
+      "title": "Apple iPad 10,9\" (2022) Wi-Fi 64 ГБ, серебристый",
+      "price": 45990,
+      "width": 215,
+      "top": 0
+    },
+    {
+      "id": 29,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/346/100500_800_140cd750bba9870f18aada2478b24840a/3vnqmn9cy5uvrfxgy5xe4cjepabjjwoz.jpg",
+      "title": "Apple iPad 10,9\" (2022) Wi-Fi 64 ГБ, жёлтый",
+      "price": 45990,
+      "width": 215,
+      "top": 0
+    },
+    {
+      "id": 30,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/eac/100500_800_140cd750bba9870f18aada2478b24840a/3mjeoj79mzkj5j3p3si9hj4xd0fyy5re.jpg",
+      "title": "Apple iPad 10,9\" (2022) Wi-Fi 64 ГБ, синий",
+      "price": 45990,
+      "width": 215,
+      "top": 0
+    },
+    {
+      "id": 31,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/154/100500_800_140cd750bba9870f18aada2478b24840a/lu3vsovms21gvovpz53mkgdohgtj6dly.jpg",
+      "title": "Apple iPad mini (2021) Wi-Fi 64 ГБ, фиолетовый",
+      "price": 49990,
+      "width": 215,
+      "top": 0
+    },
+    {
+      "id": 32,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/c60/100500_800_140cd750bba9870f18aada2478b24840a/9e1q6goq6xl499t4ug8rfbdmd1ouajky.jpg",
+      "title": "Apple iPad mini (2021) Wi-Fi 64 ГБ, «сияющая звезда»",
+      "price": 49990,
+      "width": 215,
+      "top": 0
+    },
+    {
+      "id": 33,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/43f/100500_800_140cd750bba9870f18aada2478b24840a/43p1py3ih4rogy0ig6nkbgss4rhrd59n.jpg",
+      "title": "Apple iPad mini (2021) Wi-Fi 64 ГБ, «серый космос»",
+      "price": 49990,
+      "width": 215,
+      "top": 0
+    },
+    {
+      "id": 34,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/ec6/100500_800_140cd750bba9870f18aada2478b24840a/x67narrbzvht9ki56wxihriizovav10j.jpg",
+      "title": "Apple iPad mini (2021) Wi-Fi 64 ГБ, розовый",
+      "price": 49990,
+      "width": 215,
+      "top": 0
+    },
+    {
+      "id": 35,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/3ab/100500_800_140cd750bba9870f18aada2478b24840a/8tx4y9g9v5q99teh5ud011twg53sxx8v.jpg",
+      "title": "Apple iPad Air (2024) 11\" Wi-Fi 128 ГБ, «сияющая звезда»",
+      "price": 79990,
+      "width": 215,
+      "top": 0
+    },
+    {
+      "id": 36,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/3c9/100500_800_140cd750bba9870f18aada2478b24840a/w4k2df757p82d8jq48ifqsq6rvztepcv.jpg",
+      "title": "Apple iPad Air (2024) 11\" Wi-Fi 128 ГБ, «серый космос»",
+      "price": 79990,
+      "width": 215,
+      "top": 0
+    },
+    {
+      "id": 37,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/c32/100500_800_140cd750bba9870f18aada2478b24840a/483srjh15674df8eers7sg4h04bcq1ye.jpg",
+      "title": "Apple iPad Air (2024) 11\" Wi-Fi 128 ГБ, синий",
+      "price": 79990,
+      "width": 215,
+      "top": 0
+    },
+    {
+      "id": 38,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/aa5/100500_800_140cd750bba9870f18aada2478b24840a/7t8ixas97rwcnaohfl1o0lpb2bgaearp.jpg",
+      "title": "Apple iPad Air (2024) 11\" Wi-Fi 128 ГБ, фиолетовый",
+      "price": 79990,
+      "width": 215,
+      "top": 0
+    },
+    {
+      "id": 39,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/44a/100500_800_140cd750bba9870f18aada2478b24840a/7nivph42lluf37q51d522j9ntzwezjjk.jpg",
+      "title": "Apple iPad Pro (2022) 12,9\" Wi-Fi + Cellular 128 ГБ, «серый космос»",
+      "price": 124990,
+      "width": 227,
+      "top": 0
+    },
+    {
+      "id": 40,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/9d7/100500_800_140cd750bba9870f18aada2478b24840a/lhb4a1zbnfb7uiw0gmxw61btlph1kpal.jpg",
+      "title": "Apple iPad Pro (2022) 12,9\" Wi-Fi + Cellular 128 ГБ, серебристый",
+      "price": 124990,
+      "width": 227,
+      "top": 0
+    }
+  ],
+  "laptops": [
+    {
+      "id": 41,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/f5b/100500_800_140cd750bba9870f18aada2478b24840a/2vbn9f8h654jr20256mtzsdxzsqm8oae.jpg",
+      "title": "Apple MacBook Air (M1, 2020) 8 ГБ, 256 ГБ SSD, серебристый",
+      "price": 89990,
+      "width": 290,
+      "m_btm": 66,
+      "top": 40
+    },
+    {
+      "id": 42,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/6c0/100500_800_140cd750bba9870f18aada2478b24840a/lh9s40t4myyr6lr536iokqie5d7a0as8.jpg",
+      "title": "Apple MacBook Air (M1, 2020) 8 ГБ, 256 ГБ SSD, золотой",
+      "price": 89990,
+      "width": 290,
+      "m_btm": 66,
+      "top": 40
+    },
+    {
+      "id": 43,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/1cd/100500_800_140cd750bba9870f18aada2478b24840a/9rbpnqm30cxgghx2gud9xv437lehr2mp.jpg",
+      "title": "Apple MacBook Air (M1, 2020) 8 ГБ, 256 ГБ SSD, «серый космос»",
+      "price": 89990,
+      "width": 290,
+      "m_btm": 66,
+      "top": 40
+    },
+    {
+      "id": 44,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/db9/100500_800_140cd750bba9870f18aada2478b24840a/r06py61eiokw09l719ap5fk6nl5d3gvl.jpg",
+      "title": "Apple MacBook Air 13\" (M2, 8C CPU/8C GPU, 2022), 8 ГБ, 256 ГБ SSD, «полуночный черный»",
+      "price": 119990,
+      "width": 280,
+      "m_btm": 66,
+      "top": 40
+    },
+    {
+      "id": 45,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/d19/100500_800_140cd750bba9870f18aada2478b24840a/kivvzu2nzthanai0fy4suf98nbwxzwzx.jpg",
+      "title": "Apple MacBook Air 13\" (M2, 8C CPU/8C GPU, 2022), 8 ГБ, 256 ГБ SSD, серебристый",
+      "price": 119990,
+      "width": 280,
+      "m_btm": 66,
+      "top": 40
+    },
+    {
+      "id": 46,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/ffc/100500_800_140cd750bba9870f18aada2478b24840a/x7fzagvqoe94kqfd4hxfplj4u467mpzo.jpg",
+      "title": "Apple MacBook Air 13\" (M2, 8C CPU/8C GPU, 2022), 8 ГБ, 256 ГБ SSD, «серый космос»",
+      "price": 119990,
+      "width": 280,
+      "m_btm": 66,
+      "top": 40
+    },
+    {
+      "id": 47,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/415/100500_800_140cd750bba9870f18aada2478b24840a/jecwbwkrup1r4gykkov1gzptyrz2tfna.jpg",
+      "title": "Apple MacBook Air 13\" (M2, 8C CPU/8C GPU, 2022), 8 ГБ, 256 ГБ SSD, «сияющая звезда»",
+      "price": 119990,
+      "width": 280,
+      "m_btm": 66,
+      "top": 40
+    },
+    {
+      "id": 48,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/dd9/100500_800_140cd750bba9870f18aada2478b24840a/xno042ujz1b2r9dhv4e60j9vgxuxrsnk.jpg",
+      "title": "Apple MacBook Air 13\" (M3, 8C CPU/8C GPU, 2024), 8 ГБ, 256 ГБ SSD, «полуночный черный»",
+      "price": 139990,
+      "width": 280,
+      "m_btm": 66,
+      "top": 40
+    },
+    {
+      "id": 49,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/916/100500_800_140cd750bba9870f18aada2478b24840a/1yipe9nftonyz1z6m8molss5u2jhojvx.jpg",
+      "title": "Apple MacBook Air 13\" (M3, 8C CPU/8C GPU, 2024), 8 ГБ, 256 ГБ SSD, серебристый",
+      "price": 139990,
+      "width": 280,
+      "m_btm": 66,
+      "top": 40
+    },
+    {
+      "id": 50,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/081/100500_800_140cd750bba9870f18aada2478b24840a/hrhmv2chncl10tczf35dnidc3jnmnvc8.jpg",
+      "title": "Apple MacBook Air 13\" (M3, 8C CPU/8C GPU, 2024), 8 ГБ, 256 ГБ SSD, «серый космос»",
+      "price": 139990,
+      "width": 280,
+      "m_btm": 66,
+      "top": 40
+    },
+    {
+      "id": 51,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/b48/100500_800_140cd750bba9870f18aada2478b24840a/4roxk1ub14lw8g29gndaky7itkrqz536.jpg",
+      "title": "Apple MacBook Air 13\" (M3, 8C CPU/8C GPU, 2024), 8 ГБ, 256 ГБ SSD, «сияющая звезда»",
+      "price": 139990,
+      "width": 280,
+      "m_btm": 66,
+      "top": 40
+    },
+    {
+      "id": 52,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/f17/100500_800_140cd750bba9870f18aada2478b24840a/9mx56o6u8k4qz3x9dmipm0n03ha7ju5h.jpg",
+      "title": "Apple MacBook Pro 14\" (M3 8C CPU, 10C GPU, 2023) 8 ГБ, 512 ГБ SSD, «серый космос»",
+      "price": 189990,
+      "width": 280,
+      "m_btm": 66,
+      "top": 40
+    },
+    {
+      "id": 53,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/34e/100500_800_140cd750bba9870f18aada2478b24840a/b33ihach3dviszpeavyrm0aj8yc7kio2.jpg",
+      "title": "Apple MacBook Pro 14\" (M3 8C CPU, 10C GPU, 2023) 8 ГБ, 512 ГБ SSD, серебристый",
+      "price": 189990,
+      "width": 280,
+      "m_btm": 66,
+      "top": 40
+    },
+    {
+      "id": 54,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/5ec/100500_800_140cd750bba9870f18aada2478b24840a/vrlida1ww6nukjc59iwdyk8xneqhjn5q.jpg",
+      "title": "Apple MacBook Pro 14\" (M4 10C CPU, 10C GPU, 2024) 16 ГБ, 512 ГБ SSD, «чёрный космос»",
+      "price": 249990,
+      "width": 280,
+      "m_btm": 66,
+      "top": 40
+    },
+    {
+      "id": 55,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/9cd/100500_800_140cd750bba9870f18aada2478b24840a/1wxtiz5xw93oke963hf78c7ynpocsb8v.jpg",
+      "title": "Apple MacBook Pro 14\" (M4 10C CPU, 10C GPU, 2024) 16 ГБ, 512 ГБ SSD, серебристый",
+      "price": 249990,
+      "width": 280,
+      "m_btm": 66,
+      "top": 40
+    }
+  ],
+  "watch": [
+    {
+      "id": 56,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/199/100500_800_140cd750bba9870f18aada2478b24840a/lvz0hlzhc79xpv0ers7nn8dtfk3anf2r.jpg",
+      "title": "Apple Watch SE 2024, 40 мм, корпус из алюминия цвета «сияющая звезда», спортивный ремешок цвета «сияющая звезда» S/M",
+      "price": 34990,
+      "width": 190,
+      "m_btm": 44,
+      "top": 10
+    },
+    {
+      "id": 57,
+      "image": " https://static.re-store.ru/upload/resize_cache/iblock/771/100500_800_140cd750bba9870f18aada2478b24840a/zrda1g1htcp9fj5lk6elhlkp5yfycoj0.jpg",
+      "title": "Apple Watch SE 2024, 40 мм, корпус из алюминия серебристого цвета, спортивный ремешок цвета «синий деним» S/M",
+      "price": 34990,
+      "width": 190,
+      "m_btm": 44,
+      "top": 10
+    },
+    {
+      "id": 58,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/8f4/100500_800_140cd750bba9870f18aada2478b24840a/71iq542fic2alcxlgol757su79uufya8.jpg",
+      "title": "Apple Watch SE 2024, 40 мм, корпус из алюминия цвета «полуночный черный», спортивный ремешок цвета «полуночный черный» S/M",
+      "price": 34990,
+      "width": 190,
+      "m_btm": 44,
+      "top": 10
+    },
+    {
+      "id": 59,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/8c4/100500_800_140cd750bba9870f18aada2478b24840a/4ipv6540387wio7vdg3jv37fdl10tytr.jpg",
+      "title": "Apple Watch SE 2024, 44 мм, корпус из алюминия цвета «сияющая звезда», спортивный ремешок цвета «сияющая звезда» M/L",
+      "price": 37990,
+      "width": 190,
+      "m_btm": 44,
+      "top": 10
+    },
+    {
+      "id": 60,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/c0b/100500_800_140cd750bba9870f18aada2478b24840a/havd99rtjfv6se1xbkua6ni1rzhj9uiu.jpg",
+      "title": "Apple Watch SE 2024, 44 мм, корпус из алюминия цвета «полуночный черный», спортивный ремешок цвета «полуночный черный» M/L",
+      "price": 37990,
+      "width": 190,
+      "m_btm": 44,
+      "top": 10
+    },
+    {
+      "id": 61,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/556/100500_800_140cd750bba9870f18aada2478b24840a/znxu7yb3nbacxk0naxoum29m3d9soc0o.jpg",
+      "title": "Apple Watch SE 2024, 44 мм, корпус из алюминия серебристого цвета, спортивный ремешок цвета «синий деним» M/L",
+      "price": 37990,
+      "width": 190,
+      "m_btm": 44,
+      "top": 10
+    },
+    {
+      "id": 62,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/c1d/100500_800_140cd750bba9870f18aada2478b24840a/bwglv3s244w352iw7ey0cs6fw0v3s2ef.jpg",
+      "title": "Apple Watch Series 9, 45 мм, корпус из алюминия розового цвета, спортивный ремешок нежно-розового цвета, размер M/L",
+      "price": 44990,
+      "width": 190,
+      "m_btm": 44,
+      "top": 10
+    },
+    {
+      "id": 63,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/3ce/100500_800_140cd750bba9870f18aada2478b24840a/wxpt0u7jq5czfkbl10npcqfynrs5tvg3.jpg",
+      "title": "Apple Watch Series 9, 45 мм, корпус из алюминия цвета «тёмная ночь», спортивный ремешок цвета «тёмная ночь», размер M/L",
+      "price": 44990,
+      "width": 190,
+      "m_btm": 44,
+      "top": 10
+    },
+    {
+      "id": 64,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/d11/100500_800_140cd750bba9870f18aada2478b24840a/vul9xo93nuka0mv1mb26occifh23actx.jpg",
+      "title": "Apple Watch Series 9, 45 мм, корпус из алюминия серебристого цвета, спортивный ремешок цвета «грозовой синий», размер M/L",
+      "price": 44990,
+      "width": 190,
+      "m_btm": 44,
+      "top": 10
+    },
+    {
+      "id": 65,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/7fc/100500_800_140cd750bba9870f18aada2478b24840a/on6i55xc7zlzx1n2m14g1diy3etyves3.jpg",
+      "title": "Apple Watch Series 10, 42 мм, корпус из алюминия цвета серебристый, спортивный ремешок цвета «синий деним» S/M",
+      "price": 59990,
+      "width": 190,
+      "m_btm": 44,
+      "top": 10
+    },
+    {
+      "id": 66,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/ed0/100500_800_140cd750bba9870f18aada2478b24840a/ae5e1bgco3pmvrmo7or0axdh55g7ldcx.jpg",
+      "title": "Apple Watch Series 10, 42 мм, корпус из алюминия цвета «чёрный глянец», спортивный ремешок черного цвета S/M",
+      "price": 59990,
+      "width": 190,
+      "m_btm": 44,
+      "top": 10
+    },
+    {
+      "id": 67,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/13c/100500_800_140cd750bba9870f18aada2478b24840a/s3b1x3bl215q2fcr6bjupr99z5mz6ryk.jpg",
+      "title": "Apple Watch Series 10, 42 мм, корпус из алюминия цвета «розовое золото», спортивный ремешок цвета «румянец» S/M",
+      "price": 59990,
+      "width": 190,
+      "m_btm": 44,
+      "top": 10
+    },
+    {
+      "id": 68,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/f20/100500_800_140cd750bba9870f18aada2478b24840a/zlefuuu2lktumro9ve82j8f7uaz9m05u.jpg",
+      "title": "Apple Watch Series 10, 46 мм, корпус из алюминия цвета «розовое золото», спортивный ремешок цвета «румянец» M/L",
+      "price": 64990,
+      "width": 190,
+      "m_btm": 44,
+      "top": 10
+    },
+    {
+      "id": 69,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/723/100500_800_140cd750bba9870f18aada2478b24840a/6for4yae4742xfbjvjfitlyhp9nbpvpt.jpg",
+      "title": "Apple Watch Series 10, 46 мм, корпус из алюминия серебристого цвета, спортивный ремешок цвета «синий деним» M/L",
+      "price": 64990,
+      "width": 190,
+      "m_btm": 44,
+      "top": 10
+    },
+    {
+      "id": 70,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/ea1/100500_800_140cd750bba9870f18aada2478b24840a/oocbb1e0z8ek0kvnllhc126nxs2t6u17.jpg",
+      "title": "Apple Watch Series 10, 46 мм, корпус из алюминия цвета «чёрный глянец», спортивный ремешок черного цвета M/L",
+      "price": 64990,
+      "width": 190,
+      "m_btm": 44,
+      "top": 10
+    }
+  ],
+  "computers": [
+    {
+      "id": 71,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/866/100500_800_140cd750bba9870f18aada2478b24840a/vwv4pvxn8cdycn9jzpfokzwl70y1u00m.jpg",
+      "title": "Apple Mac Mini (M4 10C CPU, 10C GPU, 2024) 16 ГБ, 256 ГБ SSD",
+      "price": 89990,
+      "width": 270,
+      "top": 0
+    },
+    {
+      "id": 72,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/546/100500_800_140cd750bba9870f18aada2478b24840a/gj91rwp7qsy8z7ymi1hwoq615ryznf3p.jpg",
+      "title": "Apple Mac Mini (M4 10C CPU, 10C GPU, 2024) 16 ГБ, 512 ГБ SSD",
+      "price": 119990,
+      "width": 270,
+      "top": 0
+    },
+    {
+      "id": 73,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/2e5/100500_800_140cd750bba9870f18aada2478b24840a/lkq2rn0h06u7fwpw6j9kwwhp2sd7tx86.jpg",
+      "title": "Apple Mac Mini (M4 10C CPU, 10C GPU, 2024) 24 ГБ, 512 ГБ SSD",
+      "price": 145990,
+      "width": 270,
+      "top": 0
+    },
+    {
+      "id": 74,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/98c/100500_800_140cd750bba9870f18aada2478b24840a/8ake0sqf52jq7cwwqcx2x4vyhgdz02id.jpg",
+      "title": "Apple Mac Mini M4 Pro (12C CPU, 16C GPU, 2024) 24 ГБ, 512 ГБ SSD",
+      "price": 209990,
+      "width": 270,
+      "top": 0
+    },
+    {
+      "id": 75,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/9f4/100500_800_140cd750bba9870f18aada2478b24840a/n9aaqzg0w1z4o9usjf72vi1bxkxxjqu6.jpg",
+      "title": "Apple iMac 24\" Retina 4,5K, M3 (8C CPU, 10C GPU, 2023), 8 ГБ, 256 ГБ SSD, серебристый",
+      "price": 189990,
+      "width": 238,
+      "m_btm": 50,
+      "top": 10
+    },
+    {
+      "id": 76,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/506/100500_800_140cd750bba9870f18aada2478b24840a/bbhgy2yfg0udloneduxubd9h1g81sexc.jpg",
+      "title": "Apple iMac 24\" Retina 4,5K, M3 (8C CPU, 10C GPU, 2023), 8 ГБ, 256 ГБ SSD, зеленый",
+      "price": 189990,
+      "width": 238,
+      "m_btm": 50,
+      "top": 10
+    },
+    {
+      "id": 77,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/3f5/100500_800_140cd750bba9870f18aada2478b24840a/3d93d4nmyh5hcfbg0ovvb26rh78ei5kc.jpg",
+      "title": "Apple iMac 24\" Retina 4,5K, M3 (8C CPU, 10C GPU, 2023), 8 ГБ, 256 ГБ SSD, синий",
+      "price": 189990,
+      "width": 238,
+      "m_btm": 50,
+      "top": 10
+    },
+    {
+      "id": 78,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/7f4/100500_800_140cd750bba9870f18aada2478b24840a/pjr4vo40vg5pcho0pzbw9hyhrcmig4gw.jpg",
+      "title": "Apple iMac 24\" Retina 4,5K (M4 8C CPU, 8C GPU, 2024), 16 ГБ, 256 ГБ SSD, голубой",
+      "price": 219990,
+      "width": 238,
+      "m_btm": 50,
+      "top": 10
+    },
+    {
+      "id": 79,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/dfd/100500_800_140cd750bba9870f18aada2478b24840a/kav41u6hp9t4a2jz32v8bsnvb1bnq3i4.jpg",
+      "title": "Apple iMac 24\" Retina 4,5K (M4 8C CPU, 8C GPU, 2024), 16 ГБ, 256 ГБ SSD, серебристый",
+      "price": 219990,
+      "width": 238,
+      "m_btm": 50,
+      "top": 10
+    },
+    {
+      "id": 80,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/cd0/100500_800_140cd750bba9870f18aada2478b24840a/mq888woi7h19oefh5s03pnl1ham67ny7.jpg",
+      "title": "Apple iMac 24\" Retina 4,5K (M4 8C CPU, 8C GPU, 2024), 16 ГБ, 256 ГБ SSD, розовый",
+      "price": 219990,
+      "width": 238,
+      "m_btm": 50,
+      "top": 10
+    },
+    {
+      "id": 81,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/9fd/100500_800_140cd750bba9870f18aada2478b24840a/7xm06no2ej8fg1eywcz66ld0zfe2hnvp.jpg",
+      "title": "Apple iMac 24\" Retina 4,5K (M4 8C CPU, 8C GPU, 2024), 16 ГБ, 256 ГБ SSD, зеленый",
+      "price": 219990,
+      "width": 238,
+      "m_btm": 50,
+      "top": 10
+    },
+    {
+      "id": 82,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/f6a/100500_800_140cd750bba9870f18aada2478b24840a/46swpykwzbk6x0mkt9zmu01qpkkffbko.png",
+      "title": "Apple Mac Studio (M2 Ultra, 2023) 64 ГБ, 1 ТБ SSD",
+      "price": 529990,
+      "width": 300,
+      "m_btm": 75,
+      "top": 55
+    },
+    {
+      "id": 83,
+      "image": "https://static.re-store.ru/upload/iblock/ca2/d18bdp6mhrpxffl99sej3u7ycjzutyh1.png",
+      "title": "Apple Mac Studio (M2 Ultra, 2023) 192 ГБ, 8 ТБ SSD",
+      "price": 1290990,
+      "width": 300,
+      "m_btm": 75,
+      "top": 55
+    },
+    {
+      "id": 84,
+      "image": "https://static.re-store.ru/upload/iblock/524/x547tld21kbgv5qpfzszygikul45gykq.jpg",
+      "title": "Монитор Apple Pro Display XDR Retina 6K 32\", стандартное стекло (без подставки)",
+      "price": 829990,
+      "width": 260,
+      "m_btm": 42,
+      "top": 20
+    }
+  ],
+  "headphones": [
+    {
+      "id": 85,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/4f7/560_280_140cd750bba9870f18aada2478b24840a/ibbthq5gj32cqsveqb5i421ncr9lkyva.jpeg",
+      "title": "Наушники Apple EarPods с разъёмом Lightning, белый",
+      "price": 3290,
+      "width": 330,
+      "m_btm": 48,
+      "top": 0
+    },
+    {
+      "id": 86,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/14d/100500_800_140cd750bba9870f18aada2478b24840a/zxw4t7mwuls2l8hfzrqj25l1p3val0r6.jpg",
+      "title": "Наушники Apple Наушники Apple EarPods с разъёмом USB-C",
+      "price": 3290,
+      "width": 110,
+      "m_btm": 48,
+      "top": 30
+    },
+    {
+      "id": 87,
+      "image": "https://static.re-store.ru/upload/iblock/8af/j74akm3qz61gj81xelwf2kdmnkom4gwf.jpg",
+      "title": "Наушники Apple EarPods с разъёмом 3,5 мм, белый",
+      "price": 3290,
+      "width": 300,
+      "m_btm": 48,
+      "top": 20
+    },
+    {
+      "id": 88,
+      "image": "https://images.biggeek.ru/1/435/4e77/8484-6973204-4208485-433MR8U2-2.jpeg",
+      "title": "Беспроводные наушники Apple AirPods 2-го поколения",
+      "price": 9990,
+      "width": 240,
+      "m_btm": 40,
+      "top": -6
+    },
+    {
+      "id": 89,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/e60/100500_800_140cd750bba9870f18aada2478b24840a/5n0aga8v3oik4mw7st1243dbq8ardlil.jpg",
+      "title": "Наушники Apple AirPods (3-его поколения, 2022) белые",
+      "price": 19990,
+      "width": 160,
+      "m_btm": 44,
+      "top": 10
+    },
+    {
+      "id": 90,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/421/100500_800_140cd750bba9870f18aada2478b24840a/cvdko9euyzyfys30wahyah4pz53tdgm6.jpg",
+      "title": "Наушники Apple AirPods (4-го поколения, 2024)",
+      "price": 22990,
+      "width": 180,
+      "m_btm": 50,
+      "top": 14
+    },
+    {
+      "id": 91,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/544/100500_800_140cd750bba9870f18aada2478b24840a/3livay9x2hckdb7zrhubibuhqxpbelqb.jpg",
+      "title": "Наушники Apple AirPods (4-го поколения, 2024) с шумоподавлением",
+      "price": 28990,
+      "width": 210,
+      "m_btm": 32,
+      "top": 0
+    },
+    {
+      "id": 92,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/54e/100500_800_140cd750bba9870f18aada2478b24840a/uxhp1ei5e9h56ufud1jbg00m2p661tdh.jpg",
+      "title": "Беспроводные наушники Apple AirPods Pro (2-го поколения, 2023) MagSafe USB-C, белый",
+      "price": 29990,
+      "width": 190,
+      "m_btm": 42,
+      "top": 0
+    },
+    {
+      "id": 93,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/e5c/100500_800_140cd750bba9870f18aada2478b24840a/39z4ilzqql124ztrux1s1xzuf3vwxo2y.jpg",
+      "title": "Наушники Apple AirPods Max, «серый космос»",
+      "price": 65990,
+      "width": 180,
+      "m_btm": 40,
+      "top": 0
+    },
+    {
+      "id": 94,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/2b9/100500_800_140cd750bba9870f18aada2478b24840a/an2uto2yzufj58ko5tt5be4sb4033ybk.jpg",
+      "title": "Наушники Apple AirPods Max, «голубое небо»",
+      "price": 65990,
+      "width": 180,
+      "m_btm": 40,
+      "top": 0
+    },
+    {
+      "id": 95,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/6dd/100500_800_140cd750bba9870f18aada2478b24840a/f49h7tsh509heu06dy52a8y2tncd73yc.jpg",
+      "title": "Наушники Apple AirPods Max, серебристый",
+      "price": 65990,
+      "width": 180,
+      "m_btm": 40,
+      "top": 0
+    },
+    {
+      "id": 96,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/6fd/100500_800_140cd750bba9870f18aada2478b24840a/nit9ksjkofjbwdnsx2nemntc42vku90g.jpg",
+      "title": "Наушники Apple AirPods Max, розовый",
+      "price": 65990,
+      "width": 180,
+      "m_btm": 40,
+      "top": 0
+    },
+    {
+      "id": 97,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/edd/100500_800_140cd750bba9870f18aada2478b24840a/hm8f9rlgrg81lzn48rb233fc3pwr5buj.jpg",
+      "title": "Наушники Apple AirPods Max, зеленый",
+      "price": 65990,
+      "width": 180,
+      "m_btm": 40,
+      "top": 0
+    },
+    {
+      "id": 98,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/9ba/100500_800_140cd750bba9870f18aada2478b24840a/trwhsu37f2fhs02xxpt8zv8x9jijv13m.jpg",
+      "title": "Наушники Apple AirPods Max USB-C, фиолетовый",
+      "price": 79990,
+      "width": 212,
+      "top": 0
+    },
+    {
+      "id": 99,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/91a/100500_800_140cd750bba9870f18aada2478b24840a/ut7jb68ehdcl7tna6sojncep0zsa1d4o.jpg",
+      "title": "Наушники Apple AirPods Max USB-C, «сияющая звезда»",
+      "price": 79990,
+      "width": 212,
+      "top": 0
+    },
+    {
+      "id": 100,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/75d/100500_800_140cd750bba9870f18aada2478b24840a/oyp83psp0vqyepvkttgn57xzj2jzjxq3.jpg",
+      "title": "Наушники Apple AirPods Max USB-C, оранжевый",
+      "price": 79990,
+      "width": 212,
+      "top": 0
+    },
+    {
+      "id": 101,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/8c5/100500_800_140cd750bba9870f18aada2478b24840a/p7d71pagpq0smr0uiq6sa6cq7umj1hab.jpg",
+      "title": "Наушники Apple AirPods Max USB-C, синий",
+      "price": 79990,
+      "width": 212,
+      "top": 0
+    },
+    {
+      "id": 102,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/086/100500_800_140cd750bba9870f18aada2478b24840a/j6pa69p1fssx7wc9a8neev3lz1ogimh7.jpg",
+      "title": "Наушники Apple AirPods Max USB-C, «полуночный черный»",
+      "price": 79990,
+      "width": 212,
+      "top": 0
+    }
+  ],
+  "multimedia": [
+    {
+      "id": 103,
+      "image": "https://images.biggeek.ru/1/435/556d/24409-784%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-01-31%20%D0%B2%2023.07.22.png",
+      "title": "Гарнитура виртуальной реальности Apple Vision Pro 256 ГБ",
+      "price": 309990,
+      "width": 310,
+      "m_btm": -14,
+      "top": -20
+    },
+    {
+      "id": 104,
+      "image": "https://images.biggeek.ru/1/435/556d/24409-784%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-01-31%20%D0%B2%2023.07.22.png",
+      "title": "Гарнитура виртуальной реальности Apple Vision Pro 1 ТБ",
+      "price": 394990,
+      "width": 310,
+      "m_btm": -14,
+      "top": -20
+    },
+    {
+      "id": 105,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/d53/100500_800_140cd750bba9870f18aada2478b24840a/qgxkuxwodhhhy801wc03ocazwku3qcji.jpg",
+      "title": "Пульт дистанционного управления Apple Siri Remote",
+      "price": 9990,
+      "width": 64,
+      "top": 4
+    },
+    {
+      "id": 106,
+      "image": "https://static.re-store.ru/upload/resize_cache/iblock/fbd/100500_800_140cd750bba9870f18aada2478b24840a/w8y0tr33z2c3latbfu6kxy6olqf8i5xy.jpg",
+      "title": "Телеприставка Apple TV 4K, 128 ГБ (3-го поколения)",
+      "price": 23990,
+      "width": 260,
+      "top": 2
+    },
+    {
+      "id": 107,
+      "image": "https://images.biggeek.ru/1/435/52e6/19336-1213836-3394254-7381013966_v01_b.jpg",
+      "title": "Телеприставка Apple TV 4K, 64 ГБ (3-го поколения)",
+      "price": 16990,
+      "width": 246,
+      "top": 0
+    },
+    {
+      "id": 108,
+      "image": "https://images.biggeek.ru/1/435/2844/19954-576homepod-select-midnight-202210.png",
+      "title": "Умная колонка Apple HomePod 2-го поколения",
+      "price": 42990,
+      "width": 246,
+      "top": 0
+    },
+    {
+      "id": 109,
+      "image": "https://images.biggeek.ru/1/435/e5fa/19954-893homepod-select-white-202210.png",
+      "title": "Умная колонка Apple HomePod 2-го поколения",
+      "price": 42990,
+      "width": 246,
+      "top": 0
+    }
+  ],
+  "accessories": {
+    "accessoriesSmartphones": [
+      {
+        "id": 110,
+        "image": "https://static.re-store.ru/upload/resize_cache/iblock/2f3/100500_800_140cd750bba9870f18aada2478b24840a/s2hy62r6l4tr1ppsi10yzg5qja671ssf.jpg",
+        "title": "Зарядное устройство Apple MagSafe, 2 м",
+        "price": 6990,
+        "width": 264,
+        "top": 0
+      },
+      {
+        "id": 111,
+        "image": "https://static.re-store.ru/upload/resize_cache/iblock/0b9/100500_800_140cd750bba9870f18aada2478b24840a/icflkn8trtsmyngjvlyeqa4ad7j21or4.jpg",
+        "title": "Чехол Apple для iPhone FineWoven Wallet MagSafe, глубокий синий",
+        "price": 8490,
+        "width": 140,
+        "top": 0
+      },
+      {
+        "id": 112,
+        "image": "https://static.re-store.ru/upload/resize_cache/iblock/c30/100500_800_140cd750bba9870f18aada2478b24840a/o1ava408aziop3wi3ehdmrwvf3cu8weq.jpg",
+        "title": "Чехол Apple для iPhone FineWoven Wallet MagSafe, глубокий зеленый",
+        "price": 8490,
+        "width": 140,
+        "top": 0
+      },
+      {
+        "id": 113,
+        "image": "https://static.re-store.ru/upload/resize_cache/iblock/a52/100500_800_140cd750bba9870f18aada2478b24840a/cvs87vor47nqsyyn88wors2x2fl78m5k.jpg",
+        "title": "Чехол Apple для iPhone FineWoven Wallet MagSafe, черны",
+        "price": 8490,
+        "width": 140,
+        "top": 0
+      },
+      {
+        "id": 114,
+        "image": "https://static.re-store.ru/upload/resize_cache/iblock/73c/100500_800_140cd750bba9870f18aada2478b24840a/pfag05lh9a7iryf0cemk6yy62npcv82y.jpg",
+        "title": "Чехол Apple для iPhone FineWoven Wallet MagSafe, черничный",
+        "price": 8490,
+        "width": 140,
+        "top": 0
+      },
+      {
+        "id": 115,
+        "image": "https://static.re-store.ru/upload/resize_cache/iblock/6d6/100500_800_140cd750bba9870f18aada2478b24840a/eiujdqsntvqp0kls1na2n70wvbivr0e3.jpg",
+        "title": "Зарядное устройство Apple MagSafe, 1 м",
+        "price": 5490,
+        "width": 260,
+        "top": 0
+      },
+      {
+        "id": 116,
+        "image": "https://static.re-store.ru/upload/resize_cache/iblock/d95/100500_800_140cd750bba9870f18aada2478b24840a/z2huk2o4nsi93y0swi5mcco8q1356dd5.jpg",
+        "title": "Кабель Apple USB-С/Lightning, длина 1м, Белый",
+        "price": 3490,
+        "width": 280,
+        "top": 0
+      },
+      {
+        "id": 117,
+        "image": "https://static.re-store.ru/upload/iblock/190/2w5mg1t774p8b2z1h2jby3osrcyentb8.jpg",
+        "title": "Кабель Apple Lightning/USB (1 м)",
+        "price": 2490,
+        "width": 314,
+        "top": 0
+      },
+      {
+        "id": 118,
+        "image": "https://static.re-store.ru/upload/resize_cache/iblock/471/100500_800_140cd750bba9870f18aada2478b24840a/iyy9fis461nsd8fow3pl1ps8xt0fu88d.jpg",
+        "title": "Адаптер питания Apple USB-C 20 Вт",
+        "price": 3290,
+        "width": 142,
+        "top": 0
+      },
+      {
+        "id": 119,
+        "image": "https://static.re-store.ru/upload/iblock/4bf/fvlijp5m6r1almnvpuq3ea2o216mfwsd.jpg",
+        "title": "Адаптер Apple Lightning/выход 3,5 мм для наушников, белый",
+        "price": 1590,
+        "width": 26,
+        "top": 0
+      },
+      {
+        "id": 120,
+        "image": "https://static.re-store.ru/upload/resize_cache/iblock/0e3/100500_800_140cd750bba9870f18aada2478b24840a/0qia020ewbrrsjxf1rhf5m5ycwgoy362.jpg",
+        "title": "Адаптер Apple USB-C/USB",
+        "price": 2490,
+        "width": 336,
+        "m_btm": 36,
+        "top": 0
+      },
+      {
+        "id": 121,
+        "image": "https://static.re-store.ru/upload/iblock/194/jybdt00c686sl8yp04wj5h9an9q6fjqf.jpg",
+        "title": "Адаптер USB‑C для наушников с разъёмом 3,5 мм",
+        "price": 1590,
+        "width": 28,
+        "top": 0
+      },
+      {
+        "id": 122,
+        "image": "https://static.re-store.ru/upload/resize_cache/iblock/3f8/100500_800_140cd750bba9870f18aada2478b24840a/3gme0lckv0ozlr0bcixg9ox31oyuu19l.jpg",
+        "title": "Чехол Apple MagSafe для iPhone 15, поликарбонат, прозрачный",
+        "price": 6990,
+        "width": 110,
+        "top": 0
+      },
+      {
+        "id": 123,
+        "image": "https://static.re-store.ru/upload/resize_cache/iblock/f22/100500_800_140cd750bba9870f18aada2478b24840a/2m9emn8w1qvgh5dpj00oelkh7tsgsnf3.jpg",
+        "title": "Чехол-бумажник Apple FineWoven MagSafe для iPhone, черный",
+        "price": 8490,
+        "width": 150,
+        "top": 0
+      },
+      {
+        "id": 124,
+        "image": "https://static.re-store.ru/upload/resize_cache/iblock/a8b/100500_800_140cd750bba9870f18aada2478b24840a/b7iandnlerkd9t4dc6nedzqt683n3rhv.jpg",
+        "title": "Чехол-бумажник Apple FineWoven MagSafe для iPhone, «тихоокеанский синий»",
+        "price": 8490,
+        "width": 150,
+        "top": 0
+      },
+      {
+        "id": 125,
+        "image": "https://static.re-store.ru/upload/resize_cache/iblock/685/100500_800_140cd750bba9870f18aada2478b24840a/kwwo83ckxz2mmoijaz5z15md49onydzo.jpg",
+        "title": "Чехол-бумажник Apple FineWoven MagSafe для iPhone, серо-коричневый",
+        "price": 8490,
+        "width": 150,
+        "top": 0
+      },
+      {
+        "id": 126,
+        "image": "https://static.re-store.ru/upload/resize_cache/iblock/230/100500_800_140cd750bba9870f18aada2478b24840a/9ekt31mjylyffchh1vnfy8eju3jh0112.jpg",
+        "title": "Чехол-бумажник Apple FineWoven MagSafe для iPhone, «шелковица»",
+        "price": 8490,
+        "width": 150,
+        "top": 0
+      }
+    ],
+    "accessoriesTablets": [
+      {
+        "id": 127,
+        "image": "https://static.re-store.ru/upload/resize_cache/iblock/0ff/100500_800_140cd750bba9870f18aada2478b24840a/4hpohys2p4km22z7o0fjhjtvw7q4pz8b.jpg",
+        "title": "Чехол-клавиатура Apple Magic Keyboard Folio для iPad 10,9\", белый",
+        "price": 33990,
+        "width": 190,
+        "top": 0
+      },
+      {
+        "id": 128,
+        "image": "https://static.re-store.ru/upload/resize_cache/iblock/a1c/100500_800_140cd750bba9870f18aada2478b24840a/bcj1yy24ycwegindr2wa6rht9tccr8dv.jpg",
+        "title": "Стилус Apple Pencil Pro белый",
+        "price": 19990,
+        "width": 14,
+        "m_btm": 38,
+        "top": 0
+      },
+      {
+        "id": 129,
+        "image": "https://static.re-store.ru/upload/resize_cache/iblock/a2e/100500_800_140cd750bba9870f18aada2478b24840a/1i9hnodzzo3zn972p4v5kaxc1hh1qcld.jpg",
+        "title": "Стилус Apple Pencil USB-C, белый",
+        "price": 13490,
+        "width": 18,
+        "m_btm": 36,
+        "top": 0
+      },
+      {
+        "id": 130,
+        "image": "https://static.re-store.ru/upload/iblock/db8/5rwl2aav0z4i77jsy97hu02i6p7jip8u.jpg",
+        "title": "Наконечники Apple для Apple Pencil, 4 шт",
+        "price": 4490,
+        "width": 260,
+        "m_btm": 54,
+        "top": 20
+      },
+      {
+        "id": 131,
+        "image": "https://static.re-store.ru/upload/resize_cache/iblock/67d/100500_800_140cd750bba9870f18aada2478b24840a/f1itpl5i43j1dth1a20g5lfg9kj11uhw.jpg",
+        "title": "Салфетка для дисплея Apple Polishing Cloth",
+        "price": 2990,
+        "width": 220,
+        "top": 0
+      },
+      {
+        "id": 132,
+        "image": "https://static.re-store.ru/upload/resize_cache/iblock/d95/100500_800_140cd750bba9870f18aada2478b24840a/z2huk2o4nsi93y0swi5mcco8q1356dd5.jpg",
+        "title": "Кабель Apple USB-С/Lightning, длина 1м, Белый",
+        "price": 3490,
+        "width": 292,
+        "top": 0
+      },
+      {
+        "id": 133,
+        "image": "https://static.re-store.ru/upload/iblock/82e/f7vkpmn91jclnni0duguszna9o4y0x1k.jpg",
+        "title": "Адаптер USB-C для Apple Pencil, белый",
+        "price": 2490,
+        "width": 60,
+        "m_btm": 60,
+        "top": 20
+      },
+      {
+        "id": 134,
+        "image": "https://static.re-store.ru/upload/iblock/190/2w5mg1t774p8b2z1h2jby3osrcyentb8.jpg",
+        "title": "Кабель Apple Lightning/USB (1 м)",
+        "price": 2490,
+        "width": 300,
+        "top": 14
+      },
+      {
+        "id": 135,
+        "image": "https://static.re-store.ru/upload/resize_cache/iblock/471/100500_800_140cd750bba9870f18aada2478b24840a/iyy9fis461nsd8fow3pl1ps8xt0fu88d.jpg",
+        "title": "Адаптер питания Apple USB-C 20 Вт",
+        "price": 3290,
+        "width": 144,
+        "top": 0
+      },
+      {
+        "id": 136,
+        "image": "https://images.biggeek.ru/1/435/7775/8976-580AMUF72FEA_apple_usb_c_charge_cable_1m.jpg",
+        "title": "Кабель Apple USB-С, длина 1м, Белый",
+        "price": 3490,
+        "width": 300,
+        "m_btm": -6,
+        "top": -28
+      },
+      {
+        "id": 137,
+        "image": "https://images.biggeek.ru/1/435/ef4b/14840-95910cover6.jpg",
+        "title": "Обложка Apple Smart Cover для iPad 10,2\", черный",
+        "price": 7990,
+        "width": 260,
+        "m_btm": 0,
+        "top": -16
+      },
+      {
+        "id": 138,
+        "image": "https://images.biggeek.ru/1/435/fc9e/14840-25810cover9.jpg",
+        "title": "Обложка Apple Smart Cover для iPad 10,2\", белый",
+        "price": 7990,
+        "width": 260,
+        "m_btm": 0,
+        "top": -16
+      },
+      {
+        "id": 139,
+        "image": "https://images.biggeek.ru/1/435/0d26/14840-76110cover8.jpg",
+        "title": "Обложка Apple Smart Cover для iPad 10,2\", синий",
+        "price": 7990,
+        "width": 260,
+        "m_btm": 0,
+        "top": -16
+      },
+      {
+        "id": 140,
+        "image": "https://images.biggeek.ru/1/435/b119/14840-62810cover4.jpg",
+        "title": "Обложка Apple Smart Cover для iPad 10,2\", зеленый",
+        "price": 7990,
+        "width": 260,
+        "m_btm": 0,
+        "top": -16
+      },
+      {
+        "id": 141,
+        "image": "https://images.biggeek.ru/1/435/cfe4/14840-27910cover7.jpg",
+        "title": "Обложка Apple Smart Cover для iPad 10,2\", фиолетовый",
+        "price": 7990,
+        "width": 260,
+        "m_btm": 0,
+        "top": -16
+      }
+    ],
+    "accessoriesLaptops": [
+      {
+        "id": 142,
+        "image": "https://static.re-store.ru/upload/resize_cache/iblock/33d/100500_800_140cd750bba9870f18aada2478b24840a/vi04fd3233wtbiz47q12xwtvdoqlhvyy.jpg",
+        "title": "Трекпад Apple Magic Trackpad USB-C, черный",
+        "price": 22990,
+        "width": 300,
+        "top": 10
+      },
+      {
+        "id": 143,
+        "image": "https://static.re-store.ru/upload/resize_cache/iblock/399/100500_800_140cd750bba9870f18aada2478b24840a/7atg0xjp0sh35ocliod42g6nsex9u7me.jpg",
+        "title": "Трекпад Apple Magic Trackpad USB-C, белый",
+        "price": 20990,
+        "width": 300,
+        "top": 10
+      },
+      {
+        "id": 144,
+        "image": "https://static.re-store.ru/upload/resize_cache/iblock/c4d/100500_800_140cd750bba9870f18aada2478b24840a/usjo0dy6atirhb5vfz4b88a2gl6hadx5.jpg",
+        "title": "Мышь Apple Magic Mouse USB-C, белый",
+        "price": 12990,
+        "width": 112,
+        "top": 0
+      },
+      {
+        "id": 145,
+        "image": "https://static.re-store.ru/upload/resize_cache/iblock/aff/100500_800_140cd750bba9870f18aada2478b24840a/hvq2u06dw4rpdkrhlq91jutge54a03wx.jpg",
+        "title": "Мышь Apple Magic Mouse USB-C, черный",
+        "price": 15990,
+        "width": 112,
+        "top": 0
+      },
+      {
+        "id": 146,
+        "image": "https://static.re-store.ru/upload/iblock/c06/jykfssdnhna89a2e8fza8cazbfsp6drt.jpg",
+        "title": "Клавиатура Apple Magic Keyboard Touch ID USB-C",
+        "price": 22990,
+        "width": 300,
+        "m_btm": 80,
+        "top": 44
+      },
+      {
+        "id": 147,
+        "image": "https://static.re-store.ru/upload/iblock/099/fjta20v3hszt6y0d1a718tseqxbs0812.jpg",
+        "title": "Клавиатура Apple Magic Keyboard USB-C",
+        "price": 16990,
+        "width": 300,
+        "m_btm": 80,
+        "top": 44
+      },
+      {
+        "id": 148,
+        "image": "https://static.re-store.ru/upload/iblock/493/nlc0cfl42tparbx3tb90n5txd3korh0p.jpg",
+        "title": "Клавиатура Apple Magic Keyboard Touch ID Numeric Keypad USB-C, белый",
+        "price": 28990,
+        "width": 300,
+        "m_btm": 90,
+        "top": 77
+      },
+      {
+        "id": 149,
+        "image": "https://static.re-store.ru/upload/iblock/536/a8jg4kvtofg1in1df16imqq8jaju21be.jpg",
+        "title": "Клавиатура Apple Magic Keyboard Touch ID Numeric Keypad USB-C, черный",
+        "price": 29990,
+        "width": 300,
+        "m_btm": 90,
+        "top": 77
+      },
+      {
+        "id": 150,
+        "image": "https://static.re-store.ru/upload/resize_cache/iblock/25b/100500_800_140cd750bba9870f18aada2478b24840a/29rqg1x9359ss8ri0t1h9t0nesxznaeq.jpg",
+        "title": "Адаптер питания Apple USB-C 30W",
+        "price": 6990,
+        "width": 300,
+        "m_btm": 50,
+        "top": 38
+      },
+      {
+        "id": 151,
+        "image": "https://static.re-store.ru/upload/iblock/5d2/3eophf2013clm0op4q34x61nw48xhsj3.jpg",
+        "title": "Кабель Apple USB-C/Magsafe 3, 2м, белый",
+        "price": 6990,
+        "width": 300,
+        "m_btm": 38,
+        "top": 0
+      },
+      {
+        "id": 152,
+        "image": "https://static.re-store.ru/upload/resize_cache/iblock/3b1/100500_800_140cd750bba9870f18aada2478b24840a/bkhdm8axctdnadwo1gnyh21ka0vn61b7.jpg",
+        "title": "Адаптер Apple 35W Dual USB-C Port Power",
+        "price": 9990,
+        "width": 260,
+        "top": 6
+      },
+      {
+        "id": 153,
+        "image": "https://static.re-store.ru/upload/resize_cache/iblock/435/100500_800_140cd750bba9870f18aada2478b24840a/14etc2t5hmpiquuh7rzjrp2julhlmmmz.jpg",
+        "title": "Адаптер питания Apple USB-C 70 Вт",
+        "price": 9990,
+        "width": 300,
+        "m_btm": 54,
+        "top": 20
+      },
+      {
+        "id": 154,
+        "image": "https://static.re-store.ru/upload/resize_cache/iblock/312/100500_800_140cd750bba9870f18aada2478b24840a/8zrq81tytq749z54rclpu5tfby8rwgef.jpg",
+        "title": "Кабель Apple USB-C Charge 240W 2 м",
+        "price": 4990,
+        "width": 320,
+        "m_btm": -20,
+        "top": -25
+      },
+      {
+        "id": 155,
+        "image": "https://static.re-store.ru/upload/resize_cache/iblock/67d/100500_800_140cd750bba9870f18aada2478b24840a/f1itpl5i43j1dth1a20g5lfg9kj11uhw.jpg",
+        "title": "Салфетка для дисплея Apple Polishing Cloth",
+        "price": 2990,
+        "width": 220,
+        "top": 0
+      }
+    ],
+    "accessoriesWatch": [
+      {
+        "id": 156,
+        "image": "https://static.re-store.ru/upload/iblock/f83/v5xvpzldb5t363ojr90u1sw6uwf8endp.jpg",
+        "title": "Беспроводное зарядное устройство Apple для Apple Watch, USB-C, 1 м, белый",
+        "price": 4590,
+        "width": 300,
+        "top": 8
+      },
+      {
+        "id": 157,
+        "image": "https://static.re-store.ru/upload/resize_cache/iblock/471/100500_800_140cd750bba9870f18aada2478b24840a/iyy9fis461nsd8fow3pl1ps8xt0fu88d.jpg",
+        "title": "Адаптер питания Apple USB-C 20 Вт",
+        "price": 3290,
+        "width": 146,
+        "top": 0
+      },
+      {
+        "id": 158,
+        "image": "https://static.re-store.ru/upload/resize_cache/iblock/1f0/100500_800_140cd750bba9870f18aada2478b24840a/7120t4r77ol86qgfgedo0u5ssiba04ql.jpeg",
+        "title": "Спортивный ремешок Nike для Apple Watch 41 мм «зелёная секвойя»",
+        "price": 4990,
+        "width": 120,
+        "top": 12
+      },
+      {
+        "id": 159,
+        "image": "https://static.re-store.ru/upload/resize_cache/iblock/97b/100500_800_140cd750bba9870f18aada2478b24840a/9pps53flk5yfpn2raisbfzl97zsa7fc7.jpg",
+        "title": "Ремешок для Apple Watch 45 мм (PRODUCT)RED Sport Band M/L",
+        "price": 4990,
+        "width": 150,
+        "top": 6
+      },
+      {
+        "id": 160,
+        "image": "https://static.re-store.ru/upload/resize_cache/iblock/986/100500_800_140cd750bba9870f18aada2478b24840a/4z4mpx9m2fwsxpzgwszbe51f0rua0nwm.jpg",
+        "title": "Спортивный ремешок Apple Watch 41 мм зеленый",
+        "price": 4990,
+        "width": 120,
+        "top": 16
+      },
+      {
+        "id": 161,
+        "image": "https://static.re-store.ru/upload/resize_cache/iblock/8f4/100500_800_140cd750bba9870f18aada2478b24840a/zcsuoetg3tp3tnauoe3zt535ll1gnvhc.jpg",
+        "title": "Ремешок Apple 46 мм Nike Sport Band, цвета «синее пламя», размер M/L",
+        "price": 7990,
+        "width": 140,
+        "top": 18
+      },
+      {
+        "id": 162,
+        "image": "https://static.re-store.ru/upload/resize_cache/iblock/6bc/100500_800_140cd750bba9870f18aada2478b24840a/x6q4powfhs3axi0lcd7io6s3cmal8j79.jpg",
+        "title": "Ремешок Apple 46 мм Nike Sport Band, цвета «рабочий хаки», размер M/L",
+        "price": 7990,
+        "width": 140,
+        "top": 18
+      },
+      {
+        "id": 163,
+        "image": "https://static.re-store.ru/upload/resize_cache/iblock/a51/100500_800_140cd750bba9870f18aada2478b24840a/d4qjhiala8olh2w7n8ikml5sqao55s6g.jpg",
+        "title": "Ремешок Apple 46 мм Nike Sport Band, цвета «волшебная искра/нежная заря», размер M/L",
+        "price": 7990,
+        "width": 140,
+        "top": 18
+      },
+      {
+        "id": 164,
+        "image": "https://static.re-store.ru/upload/resize_cache/iblock/e82/100500_800_140cd750bba9870f18aada2478b24840a/ht3lerjq6xo0jy7mj9ftxaglouth7bk4.jpg",
+        "title": "Ремешок Apple 46 мм Nike Sport Band, цвета «чистая платина», размер M/L",
+        "price": 7990,
+        "width": 140,
+        "top": 18
+      },
+      {
+        "id": 165,
+        "image": "https://static.re-store.ru/upload/resize_cache/iblock/b68/100500_800_140cd750bba9870f18aada2478b24840a/4484odbricxhv8qzq3yvsexw34zribcn.jpg",
+        "title": "Ремешок Apple 46 мм Nike Sport Band, цвета «песчаный камень», размер M/L",
+        "price": 7900,
+        "width": 140,
+        "top": 18
+      },
+      {
+        "id": 166,
+        "image": "https://static.re-store.ru/upload/resize_cache/iblock/416/100500_800_140cd750bba9870f18aada2478b24840a/g4f28acjboort9g12zrre0s49c7wcd20.jpg",
+        "title": "Ремешок Apple Sport Band 46 мм, «деним», M/L",
+        "price": 7990,
+        "width": 150,
+        "top": 4
+      },
+      {
+        "id": 167,
+        "image": "https://static.re-store.ru/upload/resize_cache/iblock/d63/100500_800_140cd750bba9870f18aada2478b24840a/44o8bdaeapvjlvvd19k3ms48fo0ea8fn.jpg",
+        "title": "Ремешок Apple Sport Band 46 мм, «румянец», M/L",
+        "price": 7990,
+        "width": 150,
+        "top": 4
+      },
+      {
+        "id": 168,
+        "image": "https://static.re-store.ru/upload/resize_cache/iblock/607/100500_800_140cd750bba9870f18aada2478b24840a/sbq8rgwktwofb8loyu8xc8xjxsvxiopf.jpg",
+        "title": "Ремешок Apple Sport Band 46 мм, черный, M/L",
+        "price": 7990,
+        "width": 150,
+        "top": 4
+      },
+      {
+        "id": 169,
+        "image": "https://static.re-store.ru/upload/resize_cache/iblock/5aa/100500_800_140cd750bba9870f18aada2478b24840a/te0ivorsy32v7uzvi1n382jfb8qghv8u.jpg",
+        "title": "Ремешок Apple Sport Band 46 мм, сливовый, M/L",
+        "price": 7990,
+        "width": 150,
+        "top": 4
+      }
+    ],
+    "accessoriesComputers": [
+      {
+        "id": 170,
+        "image": "https://images.biggeek.ru/1/435/b771/1565-137MUF82.jpeg",
+        "title": "Хаб c кабель-коннектором USB Type C (USB-C, USB-A, HDMI)",
+        "price": 9990,
+        "width": 278,
+        "m_btm": 0,
+        "top": -30
+      },
+      {
+        "id": 171,
+        "image": "https://images.biggeek.ru/1/435/6c4f/9287-8509287-163MUFG2-2.jpeg",
+        "title": "Картридер Apple USB-C — SD",
+        "price": 5990,
+        "width": 300,
+        "m_btm": 0,
+        "top": -30
+      },
+      {
+        "id": 172,
+        "image": "https://images.biggeek.ru/1/435/0630/1567-803mj1m2-2.jpeg",
+        "title": "Адаптер Apple USB-C — USB-A",
+        "price": 2990,
+        "width": 280,
+        "m_btm": 10,
+        "top": -20
+      },
+      {
+        "id": 173,
+        "image": "https://images.biggeek.ru/1/435/26d2/282-38MD463.jpg",
+        "title": "Адаптер Apple Thunderbolt — Gigabit Ethernet",
+        "price": 5990,
+        "width": 280,
+        "m_btm": -10,
+        "top": -20
+      },
+      {
+        "id": 174,
+        "image": "https://static.re-store.ru/upload/resize_cache/iblock/e52/100500_800_140cd750bba9870f18aada2478b24840a/0pocdywtu50l6ky0twokaznhgvhymmaa.jpg",
+        "title": "Адаптер питания Apple USB-C 96 Вт, белый",
+        "price": 10990,
+        "width": 280,
+        "m_btm": 44,
+        "top": 10
+      },
+      {
+        "id": 175,
+        "image": "https://static.re-store.ru/upload/resize_cache/iblock/4b0/100500_800_140cd750bba9870f18aada2478b24840a/y13zz0yvi2f8wdn2nv3lez3r0k2q54l0.jpg",
+        "title": "Адаптер питания Apple USB-C 140W",
+        "price": 15990,
+        "width": 260,
+        "m_btm": 36,
+        "top": 10
+      },
+      {
+        "id": 176,
+        "image": "https://static.re-store.ru/upload/resize_cache/iblock/33d/100500_800_140cd750bba9870f18aada2478b24840a/vi04fd3233wtbiz47q12xwtvdoqlhvyy.jpg",
+        "title": "Трекпад Apple Magic Trackpad USB-C, черный",
+        "price": 22990,
+        "width": 300,
+        "top": 10
+      },
+      {
+        "id": 177,
+        "image": "https://static.re-store.ru/upload/resize_cache/iblock/399/100500_800_140cd750bba9870f18aada2478b24840a/7atg0xjp0sh35ocliod42g6nsex9u7me.jpg",
+        "title": "Трекпад Apple Magic Trackpad USB-C, белый",
+        "price": 20990,
+        "width": 300,
+        "top": 10
+      },
+      {
+        "id": 178,
+        "image": "https://static.re-store.ru/upload/resize_cache/iblock/c4d/100500_800_140cd750bba9870f18aada2478b24840a/usjo0dy6atirhb5vfz4b88a2gl6hadx5.jpg",
+        "title": "Мышь Apple Magic Mouse USB-C, белый",
+        "price": 12990,
+        "width": 112,
+        "top": 0
+      },
+      {
+        "id": 179,
+        "image": "https://static.re-store.ru/upload/resize_cache/iblock/aff/100500_800_140cd750bba9870f18aada2478b24840a/hvq2u06dw4rpdkrhlq91jutge54a03wx.jpg",
+        "title": "Мышь Apple Magic Mouse USB-C, черный",
+        "price": 15990,
+        "width": 112,
+        "top": 0
+      },
+      {
+        "id": 180,
+        "image": "https://static.re-store.ru/upload/iblock/c06/jykfssdnhna89a2e8fza8cazbfsp6drt.jpg",
+        "title": "Клавиатура Apple Magic Keyboard Touch ID USB-C",
+        "price": 22990,
+        "width": 300,
+        "m_btm": 80,
+        "top": 44
+      },
+      {
+        "id": 181,
+        "image": "https://static.re-store.ru/upload/iblock/099/fjta20v3hszt6y0d1a718tseqxbs0812.jpg",
+        "title": "Клавиатура Apple Magic Keyboard USB-C",
+        "price": 16990,
+        "width": 300,
+        "m_btm": 80,
+        "top": 44
+      },
+      {
+        "id": 182,
+        "image": "https://static.re-store.ru/upload/iblock/493/nlc0cfl42tparbx3tb90n5txd3korh0p.jpg",
+        "title": "Клавиатура Apple Magic Keyboard Touch ID Numeric Keypad USB-C, белый",
+        "price": 28990,
+        "width": 300,
+        "m_btm": 90,
+        "top": 77
+      },
+      {
+        "id": 183,
+        "image": "https://static.re-store.ru/upload/iblock/536/a8jg4kvtofg1in1df16imqq8jaju21be.jpg",
+        "title": "Клавиатура Apple Magic Keyboard Touch ID Numeric Keypad USB-C, черный",
+        "price": 29990,
+        "width": 300,
+        "m_btm": 90,
+        "top": 77
+      }
+    ]
+  }
+}

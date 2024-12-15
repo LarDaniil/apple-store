@@ -1,0 +1,30 @@
+.headerTop {
+  background: #535353;
+  font-size: 14px;
+  padding: 2px 0 7px;
+  .container {
+    max-width: 1200px;
+    margin: auto;
+    padding: 0 30px;
+    .links {
+      display: flex;
+      justify-content: space-between;
+      .link {
+        color: #e8e8e8;
+        text-decoration: none;
+        padding: 3px;
+      }
+
+      .telephone {
+        color: #e8e8e8;
+        text-decoration: none;
+        padding: 3px;
+        font-weight: bold;
+        margin-left: 150px;
+      }
+      a:hover {
+        opacity: 0.8;
+      }
+    }
+  }
+}

@@ -1,0 +1,32 @@
+.basket {
+  padding: 60px 30px 60px;
+  max-width: 1200px;
+  margin: auto;
+  text-align: center;
+
+  h1 {
+    font-size: 40px;
+    margin-bottom: 40px;
+  }
+
+  img {
+    margin-bottom: 40px;
+  }
+
+  p {
+    font-size: 26px;
+    margin-bottom: 60px;
+  }
+
+  a {
+    font-size: 20px;
+    text-decoration: none;
+    background: #535353;
+    border-radius: 6px;
+    color: #e8e8e8;
+    padding: 10px 60px;
+  }
+  a:hover {
+    opacity: 0.8;
+  }
+}

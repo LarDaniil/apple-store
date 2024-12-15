@@ -1,0 +1,131 @@
+.basket {
+  max-width: 1200px;
+  margin: auto;
+  padding: 0 30px;
+  padding-bottom: 30px;
+
+  h1 {
+    text-align: center;
+    margin: 60px 0;
+    font-size: 40px;
+    position: relative;
+
+    span {
+      position: absolute;
+      top: 9px;
+      opacity: 0.4;
+      font-size: 30px;
+      margin-left: 10px;
+    }
+  }
+
+  .choice {
+    border-radius: 8px;
+    background: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 60px;
+    margin-bottom: 40px;
+    div {
+      display: flex;
+      cursor: pointer;
+
+      .choose,
+      .chooseActive {
+        width: 16px;
+        height: 16px;
+        border: 1px solid #535353;
+        border-radius: 4px;
+        margin-right: 10px;
+      }
+
+      .chooseActive {
+        background: #9ddc9d;
+        border: none;
+
+        img {
+          width: 12px;
+          margin: auto;
+        }
+      }
+    }
+
+    div:hover {
+      opacity: 0.8;
+
+      .choose {
+        background: #e2e2e2;
+      }
+    }
+
+    .delete {
+      cursor: pointer;
+    }
+
+    .delete:hover {
+      opacity: 0.6;
+    }
+  }
+
+  .orderDetails {
+    background: white;
+    text-align: center;
+    padding: 0 20px;
+    border-radius: 8px;
+
+    h2 {
+      font-size: 28px;
+      padding-top: 20px;
+      margin-bottom: 20px;
+    }
+
+    .nds,
+    .total {
+      justify-content: center;
+      margin: auto;
+      display: flex;
+      align-items: center;
+      margin-bottom: 20px;
+      h3 {
+        font-size: 24px;
+      }
+      p {
+        font-weight: bold;
+        font-size: 24px;
+      }
+
+      div {
+        min-width: 50px;
+        width: 500px;
+        padding-top: 12px;
+        margin: 0 6px;
+        border-bottom: 1px dotted #000;
+      }
+    }
+
+    .nds {
+      h3 {
+        font-size: 16px;
+      }
+      p {
+        font-size: 16px;
+      }
+    }
+    .total {
+      padding-bottom: 10px;
+    }
+
+    button {
+      background: #535353;
+      border-radius: 8px;
+      border: none;
+      color: #e8e8e8;
+      padding: 10px 40px;
+      margin-bottom: 30px;
+      cursor: pointer;
+    }
+    button:hover {
+      opacity: 0.8;
+    }
+  }
+}

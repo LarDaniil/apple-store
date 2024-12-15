@@ -1,0 +1,70 @@
+.headerBottom {
+  background: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  // border-bottom: 2px solid #535353;
+  -webkit-box-shadow: 0px 3px 2px 1px #5c3b3b4d;
+  -moz-box-shadow: 0px 3px 2px 1px #5c3b3b4d;
+  box-shadow: 0px 3px 2px 1px #5c3b3b4d;
+  .container {
+    max-width: 1200px;
+    margin: auto;
+    padding: 0 30px;
+    .links {
+      display: flex;
+      justify-content: space-around;
+      .link {
+        text-decoration: none;
+        padding: 3px;
+      }
+      .link:hover {
+        color: #888888;
+      }
+      .main {
+        position: relative;
+        .accessories {
+          cursor: pointer;
+          display: flex;
+          .accessory {
+            padding: 3px;
+            font-size: 17px;
+          }
+
+          img {
+            width: 10px;
+            padding-top: 2px;
+          }
+        }
+        .accessories:hover {
+          .accessory {
+            color: #888888;
+          }
+          img {
+            opacity: 0.6;
+          }
+        }
+
+        .lists {
+          display: flex;
+          flex-direction: column;
+          position: absolute;
+          background: white;
+          right: -42px;
+          top: 30px;
+          -webkit-box-shadow: 0px 0px 3px 2px rgba(34, 60, 80, 0.3);
+          -moz-box-shadow: 0px 0px 3px 2px rgba(34, 60, 80, 0.3);
+          box-shadow: 0px 0px 3px 2px rgba(34, 60, 80, 0.3);
+
+          .list {
+            text-decoration: none;
+            padding: 3px 10px 3px 5px;
+            margin-bottom: 4px;
+          }
+          .list:hover {
+            color: #888888;
+          }
+        }
+      }
+    }
+  }
+}
