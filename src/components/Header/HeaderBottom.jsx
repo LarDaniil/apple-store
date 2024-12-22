@@ -77,7 +77,7 @@ export function HeaderBottom() {
               className={styles.accessories}
               onClick={() => setActive(!active)}
             >
-              <p className={styles.accessory}>Аксесуары</p>
+              <p className={styles.accessory}>Аксессуары</p>
               {active ? (
                 <img src={listImageOpen} alt="#" />
               ) : (

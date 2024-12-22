@@ -21,6 +21,7 @@ export function Card({ items, link, linkName, active }) {
     setAddingItemFavorites,
     setProductLink,
     setProductСard,
+    setReviews,
   } = React.useContext(Data);
 
   // Добавление и удаление из избранного
@@ -64,6 +65,7 @@ export function Card({ items, link, linkName, active }) {
   function onClickLinkProduct() {
     items.link = link;
     items.linkName = linkName;
+    setReviews(items.reviews);
     setProductСard((el) => (el = items));
     setProductLink((el) => (el = linkProduct()));
   }

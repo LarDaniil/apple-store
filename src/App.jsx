@@ -19,6 +19,9 @@ export default function App() {
   const [addingItemFavorites, setAddingItemFavorites] = React.useState([]); // Добавление товара в избранное (обновление используеться в Card.jsx)
   const [productСard, setProductСard] = React.useState(); // Описание карточки товара (обновление используеться в Card.jsx)
   const [productLink, setProductLink] = React.useState(""); // Изменение https (обновление используеться в Card.jsx)
+  const [reviews, setReviews] = React.useState(); // Отзывы товара. Используються в productСard.jsx и ProductReviews.jsx (обновление используеться в ProductReviews.jsx)
+  const [leaveReview, setLeaveReview] = React.useState(false);
+  const [numberStars, setNumberStars] = React.useState(0);
 
   const addBasket = React.useMemo(
     () => ({
@@ -27,9 +30,23 @@ export default function App() {
       addingItemFavorites,
       setAddingItemFavorites,
       setProductLink,
+      productСard,
       setProductСard,
+      reviews,
+      setReviews,
+      leaveReview,
+      setLeaveReview,
+      numberStars,
+      setNumberStars,
     }),
-    [arrayProductsBasket, addingItemFavorites]
+    [
+      arrayProductsBasket,
+      addingItemFavorites,
+      productСard,
+      reviews,
+      leaveReview,
+      numberStars,
+    ]
   );
 
   const catalogs = [
@@ -104,6 +121,7 @@ export default function App() {
             path="/aboutСompany"
             element={<AboutСompany /* Об компании */ />}
           />
+
           {catalogs.map((obj, index) => (
             <Route /* Страница с карточками товаров */
               key={index}
@@ -111,9 +129,10 @@ export default function App() {
               element={<StoresProducts obj={obj} />}
             />
           ))}
+
           <Route /* Описание карточки товара */
             path={productLink}
-            element={<ProductСard productСard={productСard} />}
+            element={<ProductСard />}
           />
           <Route path="/favourites" element={<Favourites /* Избранное */ />} />
           <Route path="/basket" element={<Basket /* Корзина */ />} />

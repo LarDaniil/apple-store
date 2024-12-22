@@ -1,0 +1,29 @@
+.starRating,
+.errorContanier {
+  margin-bottom: 4px;
+}
+
+.starRating,
+.error {
+  margin-top: 4px;
+  display: flex;
+  gap: 4px;
+  padding: 2px;
+  button {
+    background-color: transparent;
+    border: none;
+    outline: none;
+    cursor: pointer;
+
+    img {
+      width: 18px;
+    }
+  }
+}
+.errorContanier {
+  p {
+    font-size: 12px;
+    position: absolute;
+    color: red;
+  }
+}
