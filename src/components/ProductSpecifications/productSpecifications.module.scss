@@ -1,0 +1,42 @@
+.main {
+  padding-top: 30px;
+  background: white;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+
+  .title {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+
+  .container {
+    padding: 10px 40px;
+
+    .specifications {
+      background: #e6e6e63a;
+      margin-bottom: 30px;
+      border-radius: 10px;
+      padding: 16px 20px;
+      h2 {
+        text-align: center;
+        margin-bottom: 20px;
+      }
+
+      .parameters {
+        margin-bottom: 10px;
+        display: flex;
+        justify-content: space-between;
+
+        div {
+          border-bottom: 1px dashed #000;
+          flex: 1;
+          margin: 0 6px;
+          margin-bottom: 5px;
+        }
+        p {
+          font-size: 20px;
+        }
+      }
+    }
+  }
+}
