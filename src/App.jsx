@@ -122,7 +122,14 @@ export default function App() {
             element={<AboutСompany /* Об компании */ />}
           />
 
-    
+          {catalogs.map((obj, index) => (
+            <Route /* Страница с карточками товаров */
+              key={index}
+              path={obj.link}
+              element={<StoresProducts obj={obj} />}
+            />
+          ))}
+
           <Route /* Описание карточки товара */
             path={productLink}
             element={<ProductСard />}
