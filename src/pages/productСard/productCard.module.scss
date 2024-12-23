@@ -47,23 +47,34 @@
           cursor: pointer;
           padding: 3px;
         }
+        div {
+          display: block;
+          height: 380px;
+          overflow: auto;
+          margin-bottom: 20px;
 
-        .contImage {
-          width: 80px;
-          height: 80px;
-          margin: 10px 0;
-          cursor: pointer;
-          text-align: center;
-          border: 1px solid white;
-
-          img {
+          .contImage {
+            width: 80px;
             height: 80px;
-            padding: 10px;
+            margin: 10px 0;
+            cursor: pointer;
+            text-align: center;
+            border: 1px solid white;
+            overflow: hidden;
+
+            img {
+              height: 80px;
+              padding: 10px;
+            }
+          }
+          .contImage:hover {
+            border: 1px solid #794141;
+            border-radius: 8px;
           }
         }
-        .contImage:hover {
-          border: 1px solid #794141;
-          border-radius: 8px;
+
+        div::-webkit-scrollbar {
+          width: 0;
         }
       }
       .image {

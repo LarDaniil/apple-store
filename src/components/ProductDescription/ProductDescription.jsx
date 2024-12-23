@@ -6,7 +6,7 @@ import styles from "./productDescription.module.scss";
 
 export function ProductDescription() {
   const { productСard } = React.useContext(Data);
-  console.log(productСard);
+
   return (
     <div className={styles.main}>
       <h1 className={styles.title}>Описание товара</h1>

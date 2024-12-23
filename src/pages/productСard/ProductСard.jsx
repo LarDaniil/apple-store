@@ -60,7 +60,7 @@ export function ProductСard() {
       text: <ProductSpecifications />,
     },
     {
-      linkName: "Отзывы" + " (" + reviews.length + ")",
+      linkName: `Отзывы ( ${reviews.length} )`,
       text: <ProductReviews averageRating={averageRating()} />,
     },
   ];
@@ -156,16 +156,18 @@ export function ProductСard() {
                 alt="up"
                 onClick={onClickUp}
               />
-              {productСard.image.map((image, index) => (
-                <div
-                  key={index}
-                  id="test"
-                  className={styles.contImage}
-                  onClick={() => setNumImage(index)}
-                >
-                  <img src={image} alt="product" />
-                </div>
-              ))}
+              <div>
+                {productСard.image.map((image, index) => (
+                  <div
+                    key={index}
+                    id="test"
+                    className={styles.contImage}
+                    onClick={() => setNumImage(index)}
+                  >
+                    <img src={image} alt="product" />
+                  </div>
+                ))}
+              </div>
               <img
                 className={styles.arrow}
                 src={downArrow}
