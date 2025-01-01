@@ -44,6 +44,9 @@ export function Card({ items, link, linkName, active }) {
   }
   // Добавление в корзину
   function onClickAddBasket() {
+    items.link = link;
+    items.linkName = linkName;
+    items.linkTitle = linkProduct();
     setArrayProductsBasket((arrayProductsBasket) => [
       ...arrayProductsBasket,
       items,
@@ -65,9 +68,10 @@ export function Card({ items, link, linkName, active }) {
   function onClickLinkProduct() {
     items.link = link;
     items.linkName = linkName;
+    items.linkTitle = linkProduct();
     setReviews(items.reviews);
     setProductСard((el) => (el = items));
-    setProductLink((el) => (el = linkProduct()));
+    setProductLink((el) => (el = items.linkTitle));
   }
 
   return (

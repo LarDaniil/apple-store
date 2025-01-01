@@ -6,14 +6,17 @@ import flagImage from "./images/flag.svg";
 import styles from "./cardBasket.module.scss";
 import { Data } from "../../App";
 import { DataProductBasket } from "./ProductsBasket";
+import { Link } from "react-router";
 
 export function CardBasket({ obj }) {
   const [valueInput, setValueInput] = React.useState(1);
   const [price, setPrice] = React.useState(obj.price);
 
-  const { setArrayProductsBasket } = React.useContext(Data);
+  const { setArrayProductsBasket, setProductСard, setProductLink, setReviews } =
+    React.useContext(Data);
   const { active, setActive, setDeleteSelected } =
     React.useContext(DataProductBasket);
+
   function onChangeInput(event) {
     setValueInput((value) => (value = event.target.value));
     setPrice((num) => (num = obj.price * event.target.value));
@@ -49,6 +52,12 @@ export function CardBasket({ obj }) {
     );
   }
 
+  function onClickLinkProduct() {
+    setReviews(obj.reviews);
+    setProductСard((el) => (el = obj));
+    setProductLink((el) => (el = obj.linkTitle));
+  }
+
   return (
     <div className={styles.card}>
       {active ? (
@@ -60,10 +69,16 @@ export function CardBasket({ obj }) {
           <img src={flagImage} alt="flag" onClick={onClickChoose} />
         </div>
       )}
-      <div className={styles.image}>
-        <img src={obj.image[0]} alt="#" />
-      </div>
-      <p className={styles.title}>{obj.title}</p>
+      <Link
+        className={styles.returnProductCard}
+        onClick={onClickLinkProduct}
+        to={obj.linkTitle}
+      >
+        <div className={styles.image}>
+          <img src={obj.image[0]} alt="#" />
+        </div>
+        <p className={styles.title}>{obj.title}</p>
+      </Link>
       <div className={styles.quantity}>
         <button className={styles.click} onClick={minus}>
           -

@@ -1,4 +1,9 @@
+import React from "react";
 import { Link } from "react-router";
+
+import { Data } from "../../App";
+
+import siteNameBlackAndWhite from "./images/siteNameBlackAndWhite.jpg";
 
 import search from "./images/search.svg";
 import favourites from "./images/favourites.svg";
@@ -6,15 +11,19 @@ import basket from "./images/basket.svg";
 import entrance from "./images/entrance.svg";
 
 import styles from "./headerCenter.module.scss";
-import { Data } from "../../App";
-import React from "react";
 
 export function HeaderCenter() {
   const { addingItemFavorites, arrayProductsBasket } = React.useContext(Data);
   return (
     <div className={styles.headerCenter}>
       <div className={styles.container}>
-        <Link to="/">QPICK</Link>
+        <Link to="/">
+          <img
+            className={styles.siteName}
+            src={siteNameBlackAndWhite}
+            alt="siteName"
+          />
+        </Link>
         <div className={styles.search}>
           <img src={search} alt="search" />
           <input type="text" placeholder="Поиск..." />

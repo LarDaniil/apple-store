@@ -34,7 +34,7 @@ export function StoresProducts({ obj }) {
           </div>
           <div className={styles.sort}>
             <p className={styles.numberProducts}>
-              {obj.storesProducts.length} <span>Товаров</span>
+              {obj.products.length} <span>Товаров</span>
             </p>
             {active ? (
               <div className={styles.choosingSortActive}>
@@ -65,7 +65,7 @@ export function StoresProducts({ obj }) {
           </div>
         </div>
         <div className={styles.cards}>
-          {obj.storesProducts.map((items) => (
+          {obj.products.map((items) => (
             <Card
               key={items.id}
               items={items}

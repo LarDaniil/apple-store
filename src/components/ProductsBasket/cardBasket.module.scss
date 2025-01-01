@@ -36,19 +36,26 @@
     opacity: 0.8;
   }
 
-  .image {
-    width: 210px;
-    text-align: center;
+  .returnProductCard {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    text-decoration: none;
 
-    img {
-      height: 100px;
+    .image {
+      width: 210px;
+      text-align: center;
+
+      img {
+        height: 100px;
+      }
     }
-  }
 
-  .title {
-    text-align: center;
-    font-size: 18px;
-    width: 400px;
+    .title {
+      text-align: center;
+      font-size: 18px;
+      width: 400px;
+    }
   }
 
   .quantity {

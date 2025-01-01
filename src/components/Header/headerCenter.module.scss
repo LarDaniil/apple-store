@@ -14,22 +14,30 @@
       text-decoration: none;
       font-weight: bold;
       font-size: 20px;
+
+      .siteName {
+        width: 100px;
+      }
     }
+
     a:hover {
       color: #888888;
     }
+
     .search {
       position: relative;
       max-width: 600px;
       flex: 1;
       margin: auto;
       padding: 0 20px;
+
       img {
         position: absolute;
         right: 36px;
         top: 6px;
         width: 16px;
       }
+
       input {
         padding: 5px 0 5px 20px;
         font-size: 16px;

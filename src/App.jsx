@@ -8,9 +8,8 @@ import {
   Favourites,
   Basket,
   ProductСard,
+  ProductCatalog,
 } from "./pages";
-
-import products from "./assets/products.json";
 
 export const Data = React.createContext();
 
@@ -22,6 +21,7 @@ export default function App() {
   const [reviews, setReviews] = React.useState(); // Отзывы товара. Используються в productСard.jsx и ProductReviews.jsx (обновление используеться в ProductReviews.jsx)
   const [leaveReview, setLeaveReview] = React.useState(false);
   const [numberStars, setNumberStars] = React.useState(0);
+  const [products, setProducts] = React.useState([]);
 
   const addBasket = React.useMemo(
     () => ({
@@ -49,68 +49,11 @@ export default function App() {
     ]
   );
 
-  const catalogs = [
-    {
-      link: "/catalog/smartphones",
-      storesProducts: products.smartphones,
-      linkName: "Смартфоны",
-    },
-    {
-      link: "/catalog/tablets",
-      storesProducts: products.tablets,
-      linkName: "Планшеты",
-    },
-    {
-      link: "/catalog/laptops",
-      storesProducts: products.laptops,
-      linkName: "Ноутбуки",
-    },
-    {
-      link: "/catalog/watch",
-      storesProducts: products.watch,
-      linkName: "Часы",
-    },
-    {
-      link: "/catalog/computers",
-      storesProducts: products.computers,
-      linkName: "Компьютеры",
-    },
-    {
-      link: "/catalog/headphones",
-      storesProducts: products.headphones,
-      linkName: "Наушники",
-    },
-    {
-      link: "/catalog/multimedia",
-      storesProducts: products.multimedia,
-      linkName: "Мультимедиа",
-    },
-    {
-      link: "/catalog/accessoriesSmartphones",
-      storesProducts: products.accessories.accessoriesSmartphones,
-      linkName: "Акссесуары для смартфонов",
-    },
-    {
-      link: "/catalog/accessoriesTablets",
-      storesProducts: products.accessories.accessoriesTablets,
-      linkName: "Акссесуары для планшетов",
-    },
-    {
-      link: "/catalog/accessoriesLaptops",
-      storesProducts: products.accessories.accessoriesLaptops,
-      linkName: "Акссесуары для ноутбуков",
-    },
-    {
-      link: "/catalog/accessoriesWatch",
-      storesProducts: products.accessories.accessoriesWatch,
-      linkName: "Акссесуары для часов",
-    },
-    {
-      link: "/catalog/accessoriesComputers",
-      storesProducts: products.accessories.accessoriesComputers,
-      linkName: "Акссесуары для компьютеров",
-    },
-  ];
+  React.useEffect(() => {
+    fetch("https://676955c1cbf3d7cefd3a693a.mockapi.io/ghbdtn")
+      .then((response) => response.json())
+      .then((data) => setProducts(data));
+  }, []);
 
   return (
     <Data.Provider value={addBasket}>
@@ -122,7 +65,9 @@ export default function App() {
             element={<AboutСompany /* Об компании */ />}
           />
 
-          {catalogs.map((obj, index) => (
+          <Route path="/catalog" element={<ProductCatalog />} />
+
+          {products.map((obj, index) => (
             <Route /* Страница с карточками товаров */
               key={index}
               path={obj.link}

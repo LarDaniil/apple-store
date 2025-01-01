@@ -16,6 +16,7 @@ export function ProductsBasket() {
 
   const [deleteSelected, setDeleteSelected] =
     React.useState(arrayProductsBasket);
+
   const [active, setActive] = React.useState(true);
 
   function selectWholeProduct() {
