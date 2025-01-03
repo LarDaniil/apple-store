@@ -13,7 +13,20 @@ export function StoresProducts({ obj }) {
   const [active, setActive] = React.useState(false); // Разновидность верстки в зависимоти от сортировки
   const [sortId, setSortId] = React.useState(0); // Выбор позиции сортировки
 
-  const lists = ["Популярные", "По возрастанию цены", "По убыванию цены"];
+  const lists = [
+    {
+      title: "Популярные",
+      addressСhange: "popular",
+    },
+    {
+      title: "По возрастанию цены",
+      addressСhange: "priceIncrease",
+    },
+    {
+      title: "По убыванию цены",
+      addressСhange: "decreasingPrice",
+    },
+  ];
   // Изменение сортировки
   function onClickList(index) {
     setSortId(index);
@@ -41,14 +54,14 @@ export function StoresProducts({ obj }) {
                 <p className={styles.choosingSort}>
                   Сортировка:
                   <span onClick={() => setActive(false)}>
-                    {lists[sortId]}
+                    {lists[sortId].title}
                     <img src={sortOpen} alt="sort" />
                   </span>
                 </p>
                 <div>
                   {lists.map((list, index) => (
                     <p key={index} onClick={() => onClickList(index)}>
-                      {list}
+                      {list.title}
                     </p>
                   ))}
                 </div>
@@ -57,7 +70,7 @@ export function StoresProducts({ obj }) {
               <p className={styles.choosingSort}>
                 Сортировка:
                 <span onClick={() => setActive(!active)}>
-                  {lists[sortId]}
+                  {lists[sortId].title}
                   <img src={sort} alt="sort" />
                 </span>
               </p>
