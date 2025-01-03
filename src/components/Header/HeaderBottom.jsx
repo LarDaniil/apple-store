@@ -1,12 +1,16 @@
 import React from "react";
 import { Link } from "react-router";
 
+import { Data } from "../../App";
+
 import listImage from "./images/list.svg";
 import listImageOpen from "./images/listOpen.svg";
 
 import styles from "./headerBottom.module.scss";
 
 export function HeaderBottom() {
+  const { setHrefHeader } = React.useContext(Data);
+
   const [active, setActive] = React.useState(false);
 
   const links = [
@@ -63,12 +67,22 @@ export function HeaderBottom() {
     },
   ];
 
+  function onClickAccessories(obj) {
+    setActive(false);
+    setHrefHeader(obj.href);
+  }
+
   return (
     <div className={styles.headerBottom}>
       <div className={styles.container}>
         <div className={styles.links}>
           {links.map((obj, index) => (
-            <Link key={index} to={obj.href} className={styles.link}>
+            <Link
+              key={index}
+              to={obj.href}
+              className={styles.link}
+              onClick={() => setHrefHeader(obj.href)}
+            >
               {obj.title}
             </Link>
           ))}
@@ -87,14 +101,14 @@ export function HeaderBottom() {
 
             {active && (
               <div className={styles.lists}>
-                {lists.map((list, index) => (
+                {lists.map((obj, index) => (
                   <Link
-                    to={list.href}
+                    to={obj.href}
                     key={index}
                     className={styles.list}
-                    onClick={() => setActive(false)}
+                    onClick={() => onClickAccessories(obj)}
                   >
-                    Для {list.title}
+                    Для {obj.title}
                   </Link>
                 ))}
               </div>

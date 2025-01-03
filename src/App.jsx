@@ -1,6 +1,8 @@
 import React from "react";
 import { Route, Routes } from "react-router";
 
+import products from "./assets/products.json";
+
 import {
   Home,
   AboutСompany,
@@ -21,7 +23,8 @@ export default function App() {
   const [reviews, setReviews] = React.useState(); // Отзывы товара. Используються в productСard.jsx и ProductReviews.jsx (обновление используеться в ProductReviews.jsx)
   const [leaveReview, setLeaveReview] = React.useState(false);
   const [numberStars, setNumberStars] = React.useState(0);
-  const [products, setProducts] = React.useState([]);
+  const [hrefHeader, setHrefHeader] = React.useState("");
+  // const [products, setProducts] = React.useState([]);
 
   const addBasket = React.useMemo(
     () => ({
@@ -38,6 +41,8 @@ export default function App() {
       setLeaveReview,
       numberStars,
       setNumberStars,
+      hrefHeader,
+      setHrefHeader,
     }),
     [
       arrayProductsBasket,
@@ -46,14 +51,15 @@ export default function App() {
       reviews,
       leaveReview,
       numberStars,
+      hrefHeader,
     ]
   );
 
-  React.useEffect(() => {
-    fetch("https://676955c1cbf3d7cefd3a693a.mockapi.io/ghbdtn")
-      .then((response) => response.json())
-      .then((data) => setProducts(data));
-  }, []);
+  // React.useEffect(() => {
+  //   fetch("https://676955c1cbf3d7cefd3a693a.mockapi.io/ghbdtn")
+  //     .then((response) => response.json())
+  //     .then((data) => setProducts(data));
+  // }, []);
 
   return (
     <Data.Provider value={addBasket}>
@@ -70,7 +76,7 @@ export default function App() {
           {products.map((obj, index) => (
             <Route /* Страница с карточками товаров */
               key={index}
-              path={obj.link}
+              path={hrefHeader}
               element={<StoresProducts obj={obj} />}
             />
           ))}
