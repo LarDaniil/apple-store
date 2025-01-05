@@ -8,6 +8,7 @@ import sort from "./images/sort.svg";
 import sortOpen from "./images/sortOpen.svg";
 
 import styles from "./storesProducts.module.scss";
+import { Pagination } from "../../components/Pagination/Pagination";
 
 export function StoresProducts({ obj }) {
   const [active, setActive] = React.useState(false); // Разновидность верстки в зависимоти от сортировки
@@ -16,21 +17,55 @@ export function StoresProducts({ obj }) {
   const lists = [
     {
       title: "Популярные",
-      addressСhange: "popular",
     },
     {
       title: "По возрастанию цены",
-      addressСhange: "priceIncrease",
     },
     {
       title: "По убыванию цены",
-      addressСhange: "decreasingPrice",
     },
   ];
   // Изменение сортировки
   function onClickList(index) {
     setSortId(index);
     setActive(false);
+  }
+
+  function sorting() {
+    if (lists[sortId].title === "Популярные") {
+      return obj.products
+        .sort((a, b) => b.popular - a.popular)
+        .map((items, index) => (
+          <Card
+            key={items.id}
+            items={items}
+            link={obj.link}
+            linkName={obj.linkName}
+          />
+        ));
+    } else if (lists[sortId].title === "По возрастанию цены") {
+      return obj.products
+        .sort((a, b) => a.price - b.price)
+        .map((items, index) => (
+          <Card
+            key={items.id}
+            items={items}
+            link={obj.link}
+            linkName={obj.linkName}
+          />
+        ));
+    } else {
+      return obj.products
+        .sort((a, b) => b.price - a.price)
+        .map((items, index) => (
+          <Card
+            key={items.id}
+            items={items}
+            link={obj.link}
+            linkName={obj.linkName}
+          />
+        ));
+    }
   }
 
   return (
@@ -77,17 +112,9 @@ export function StoresProducts({ obj }) {
             )}
           </div>
         </div>
-        <div className={styles.cards}>
-          {obj.products.map((items) => (
-            <Card
-              key={items.id}
-              items={items}
-              link={obj.link}
-              linkName={obj.linkName}
-            />
-          ))}
-        </div>
+        <div className={styles.cards}>{sorting()}</div>
       </div>
+      <Pagination />
     </>
   );
 }
