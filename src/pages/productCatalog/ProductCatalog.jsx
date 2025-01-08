@@ -100,8 +100,6 @@ export function ProductCatalog() {
     },
   ];
 
-  function onClickAccessories() {}
-
   return (
     <>
       <Header />

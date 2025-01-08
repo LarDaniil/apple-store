@@ -4,17 +4,34 @@
   font-size: 20px;
   padding-bottom: 40px;
 
-  .main {
+  .cards {
     display: flex;
+    flex-wrap: wrap;
     justify-content: center;
-    gap: 10px;
+    gap: 16px;
+    padding-bottom: 60px;
+  }
 
-    p {
-      cursor: pointer;
-    }
+  .main {
+    ul {
+      display: flex;
+      justify-content: center;
+      gap: 10px;
 
-    p:hover {
-      opacity: 0.6;
+      li {
+        list-style: none;
+
+        a {
+          cursor: pointer;
+        }
+
+        a:hover {
+          opacity: 0.6;
+        }
+      }
     }
   }
+}
+.activeClassName {
+  color: rgb(200, 40, 40);
 }

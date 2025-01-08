@@ -112,9 +112,8 @@ export function StoresProducts({ obj }) {
             )}
           </div>
         </div>
-        <div className={styles.cards}>{sorting()}</div>
+        <Pagination data={sorting} dataLimit={3} />
       </div>
-      <Pagination />
     </>
   );
 }
