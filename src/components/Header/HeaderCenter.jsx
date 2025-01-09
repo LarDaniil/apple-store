@@ -12,8 +12,14 @@ import entrance from "./images/entrance.svg";
 
 import styles from "./headerCenter.module.scss";
 
-export function HeaderCenter() {
+export function HeaderCenter({ setActive }) {
   const { addingItemFavorites, arrayProductsBasket } = React.useContext(Data);
+  const [value, setValue] = React.useState("");
+
+  function activeSearch(event) {
+    setValue((value) => (value = event.target.value));
+  }
+
   return (
     <div className={styles.headerCenter}>
       <div className={styles.container}>
@@ -26,7 +32,13 @@ export function HeaderCenter() {
         </Link>
         <div className={styles.search}>
           <img src={search} alt="search" />
-          <input type="text" placeholder="Поиск..." />
+          <input
+            type="text"
+            placeholder="Поиск..."
+            value={value}
+            onChange={(event) => activeSearch(event)}
+            onFocus={() => setActive(true)}
+          />
         </div>
         <div className={styles.tabs}>
           {addingItemFavorites.length > 0 ? (

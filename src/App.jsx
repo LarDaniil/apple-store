@@ -38,6 +38,7 @@ export default function App() {
       setLeaveReview,
       numberStars,
       setNumberStars,
+      products,
     }),
     [
       arrayProductsBasket,
@@ -46,6 +47,7 @@ export default function App() {
       reviews,
       leaveReview,
       numberStars,
+      products,
     ]
   );
 

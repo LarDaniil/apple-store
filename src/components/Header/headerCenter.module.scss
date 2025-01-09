@@ -36,6 +36,7 @@
         right: 36px;
         top: 6px;
         width: 16px;
+        cursor: pointer;
       }
 
       input {
@@ -45,6 +46,11 @@
         border: 1px solid #535353;
         border-radius: 5px;
         outline: none;
+        cursor: pointer;
+      }
+
+      input:hover {
+        border: 1px solid #868686;
       }
     }
     .tabs {
