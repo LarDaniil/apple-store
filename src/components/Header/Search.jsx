@@ -4,18 +4,40 @@ import magnifier from "./images/search.svg";
 import cross from "./images/cross.svg";
 import React from "react";
 import { Data } from "../../App";
+import { Link } from "react-router";
 
 export function Search({ setActive }) {
-  const { products } = React.useContext(Data);
+  const { products, setReviews, setProductСard, setProductLink } =
+    React.useContext(Data);
   const [value, setValue] = React.useState("");
+  //   const [counter, setCounter] = React.useState(0);
   const autoFocus = React.useCallback(
     (input) => (input ? input.focus() : null),
     []
   );
+  const forwardRef = React.useRef(null);
+  console.log(forwardRef);
 
-  function test() {
-    return;
+  function linkProduct(obj, el) {
+    let title = el.title;
+    while (title.includes(" ")) {
+      title = title.replace(" ", "-");
+    }
+    while (title.includes(",")) {
+      title = title.replace(",", "");
+    }
+    return obj.link + "/" + title;
   }
+
+  function onClickLinkProduct(obj, el) {
+    el.link = obj.link;
+    el.linkName = obj.linkName;
+    el.linkTitle = linkProduct(obj, el);
+    setReviews(el.reviews);
+    setProductСard((elem) => (elem = el));
+    setProductLink((elem) => (elem = linkProduct(obj, el)));
+  }
+
   return (
     <div className={styles.main}>
       <div className={styles.container}>
@@ -35,17 +57,42 @@ export function Search({ setActive }) {
             onClick={() => setActive(false)}
           />
         </div>
-        <div className={styles.cards}>
+        <p
+          className={styles.back}
+          onClick={() => (forwardRef.current.scrollLeft -= 380)}
+        >
+          Назад
+        </p>
+        <div className={styles.cards} ref={forwardRef}>
           {value &&
             products.map((obj) =>
               obj.products.map(
                 (el) =>
                   el.title.toLowerCase().includes(value.toLowerCase()) && (
-                    <div key={el.id}>{el.title}</div>
+                    <Link
+                      to={linkProduct(obj, el)}
+                      key={el.id}
+                      onClick={() => onClickLinkProduct(obj, el)}
+                    >
+                      <div>
+                        <img
+                          style={{ width: el.width, top: el.top }}
+                          src={el.image[0]}
+                          alt="images"
+                        />
+                      </div>
+                      <p>{el.title}</p>
+                    </Link>
                   )
               )
             )}
         </div>
+        <p
+          className={styles.forward}
+          onClick={() => (forwardRef.current.scrollLeft += 380)}
+        >
+          Вперед
+        </p>
       </div>
     </div>
   );

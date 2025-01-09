@@ -134,6 +134,8 @@ export function ProductСard() {
     return text[2];
   }
 
+  console.log(productСard);
+
   return (
     <div className={leaveReview ? styles.leaveReview : ""}>
       <Header />

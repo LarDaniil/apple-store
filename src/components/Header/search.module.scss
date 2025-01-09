@@ -1,17 +1,20 @@
 .main {
   position: absolute;
   z-index: 100;
-  background: #ffffff;
+  background: #e6e6e6;
   width: 100%;
   height: 100%;
   top: 0;
+  padding-top: 20px;
 
   .container {
     max-width: 1200px;
-    padding: 0 20px;
+    padding: 1px 20px;
     margin: auto;
+    border-radius: 10px;
     text-align: center;
-    height: 200px;
+    position: relative;
+    background: #fff;
 
     .search {
       margin-top: 20px;
@@ -26,10 +29,6 @@
         border-radius: 5px;
         border: 1.5px solid #535353;
         outline: none;
-      }
-
-      input:hover {
-        opacity: 0.6;
       }
 
       .magnifier {
@@ -52,6 +51,56 @@
 
     .cards {
       display: flex;
+      max-width: 1000px;
+      margin: auto;
+      gap: 60px;
+      overflow: auto;
+      height: 350px;
+
+      a {
+        width: 300px;
+        position: relative;
+        cursor: pointer;
+        text-decoration: none;
+
+        div {
+          height: 264px;
+          img {
+            position: relative;
+          }
+        }
+
+        p {
+          z-index: 1;
+          position: relative;
+        }
+      }
+    }
+
+    .forward,
+    .back {
+      position: absolute;
+      font-size: 18px;
+      top: 220px;
+      padding: 5px;
+      font-weight: bold;
+      cursor: pointer;
+    }
+
+    .forward {
+      right: 30px;
+    }
+
+    .forward:hover {
+      opacity: 0.6;
+    }
+
+    .back {
+      left: 30px;
+    }
+
+    .back:hover {
+      opacity: 0.6;
     }
   }
 }
